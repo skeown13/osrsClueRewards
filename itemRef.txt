@@ -1,16 +1,16 @@
 *******Beginner Clues*******
-Amulet of Defense (t)
-Bear Feet
-Demon Feet
-Frog Slippers
-Jester Cape
-Mole Slippers
-Monk's Robe (t)
-Monk's Robe Top (t)
-Rune Scimitar Ornamit Kit (guthix)
-Rune Scimitar Ornamit Kit (saradomin)
-Rune Scimitar Ornamit Kit (zamorak)
-Sanwhich Lady Bottom
-Sandwhich Lady Hat
-Sandwhich Lady Top
-Shoulder Parrot
+Amulet of Defense (t) -- 23309
+Bear Feet -- 23291
+Demon Feet -- 23294
+Frog Slippers -- 23288
+Jester Cape -- 23297
+Mole Slippers -- 23285
+Monk's Robe (t) -- 23306
+Monk's Robe Top (t) -- 23303
+Rune Scimitar Ornamit Kit (guthix) -- 23321
+Rune Scimitar Ornamit Kit (saradomin) -- 23324
+Rune Scimitar Ornamit Kit (zamorak) -- 23327
+Sandwich Lady Bottom -- 23318
+Sandwich Lady Hat -- 23312
+Sandwich Lady Top -- 23315
+Shoulder Parrot -- 23300
