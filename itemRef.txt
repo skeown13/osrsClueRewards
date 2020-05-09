@@ -92,3 +92,58 @@ Black wizard hat (g)
 Black wizard robe (g)
 Black skirt (g)
 Studded body (t)
+Studded chaps (t)
+Studded body (g)
+Studded chaps (g)
+Team cape i
+Team cape x
+Team cape zero
+Guthix robe top
+Saradomin robe top
+Zamorak robe top
+Ancient robe top
+Bandos robe top
+Armadyl robe top
+Guthix robe legs
+Saradomin robe legs
+Zamorak robe legs
+Ancient robe legs
+Bandos robe legs
+Armadyl robe legs
+Black beret
+Blue beret
+White beret
+Red beret
+Highwayman mask
+Beanie
+Bob's red shirt
+Bob's blue shirt
+Bob's green shirt
+Bob's black shirt
+Bob's purple shirt
+A powdered wig
+Flared trousers
+Pantaloons
+Sleeping cap
+Imp mask
+Goblin mask
+Black cane
+Amulet of magic (t)
+Black pickaxe
+Wooden shield (g)
+Golden chef's hat
+Golden apron
+Monk's robe top (g)
+Monk's robe (g)
+Large spade
+Cape of skulls
+Rain bow
+Ham joint
+Black platebody (h1)
+Black platebody (h2)
+Black platebody (h3)
+Black platebody (h4)
+Black platebody (h5)
+Staff of bob the cat
+Leather body (g)
+Leather chaps (g)
