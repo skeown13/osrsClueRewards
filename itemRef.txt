@@ -14,3 +14,81 @@ Sandwich Lady Bottom -- 23318
 Sandwich Lady Hat -- 23312
 Sandwich Lady Top -- 23315
 Shoulder Parrot -- 23300
+
+
+*******Easy Clues*******
+Bronze full helm (t)
+Bronze platebody (t)
+Bronze platelegs (t)
+Bronze plateskirt (t)
+Bronze kiteshield (t)
+Bronze full helm (g)
+Bronze platebody (g)
+Bronze platelegs (g)
+Bronze plateskirt (g)
+Bronze kiteshield (g)
+Iron full helm (t)
+Iron platebody (t)
+Iron platelegs (t)
+Iron plateskirt (t)
+Iron kiteshield (t)
+Iron full helm (g)
+Iron platebody (g)
+Iron platelegs (g)
+Iron plateskirt (g)
+Iron kiteshield (g)
+Steel full helm (t)
+Steel platebody (t)
+Steel platelegs (t)
+Steel plateskirt (t)
+Steel kiteshield (t)
+Steel full helm (g)
+Steel platebody (g)
+Steel platelegs (g)
+Steel plateskirt (g)
+Steel kiteshield (g)
+Black full helm (t)
+Black platebody (t)
+Black platelegs (t)
+Black plateskirt (t)
+Black kiteshield (t)
+Black full helm (g)
+Black platebody (g)
+Black platelegs (g)
+Black plateskirt (g)
+Black kiteshield (g)
+Black helm (h1)
+Black helm (h2)
+Black helm (h3)
+Black helm (h4)
+Black helm (h5)
+Black shield (h1)
+Black shield (h2)
+Black shield (h3)
+Black shield (h4)
+Black shield (h5)
+Blue elegant shirt
+Blue elegant legs
+Blue elegant blouse
+Blue elegant skirt
+Green elegant shirt
+Green elegant legs
+Green elegant blouse
+Green elegant skirt
+Red elegant shirt
+Red elegant legs
+Red elegant blouse
+Red elegant skirt
+Blue wizard hat (t)
+Blue wizard robe (t)
+Blue skirt (t)
+Blue wizard hat (g)
+Blue wizard robe (g)
+Blue skirt (g)
+Black wizard hat (t)
+Black wizard robe (t)
+Black skirt (t)
+Black wizard hat (g)
+Black wizard robe (g)
+Black skirt (g)
+Studded body (t)
