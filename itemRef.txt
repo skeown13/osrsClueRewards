@@ -150,114 +150,114 @@ Leather chaps (g) -- 23384
 
 
 *******Medium Clues*******
-Mithril full helm (t)
-Mithril platebody (t)
-Mithril platelegs (t)
-Mithril plateskirt (t)
-Mithril kiteshield (t)
-Mithril full helm (g)
-Mithril platebody (g)
-Mithril platelegs (g)
-Mithril plateskirt (g)
-Mithril kiteshield (g)
-Adamant full helm (t)
-Adamant platebody (t)
-Adamant platelegs (t)
-Adamant plateskirt (t)
-Adamant kiteshield (t)
-Adamant full helm (g)
-Adamant platebody (g)
-Adamant platelegs (g)
-Adamant plateskirt (g)
-Adamant kiteshield (g)
-Adamant helm (h1)
-Adamant helm (h2)
-Adamant helm (h3)
-Adamant helm (h4)
-Adamant helm (h5)
-Adamant shield (h1)
-Adamant shield (h2)
-Adamant shield (h3)
-Adamant shield (h4)
-Adamant shield (h5)
-Red headband
-Black headband
-Brown headband
-White headband
-Blue headband
-Gold headband
-Pink headband
-Green headband
-Red boater
-Black boater
-Brown orange
-White boater
-Blue boater
-Purple boater
-Pink boater
-Green boater
-Green d'hide body (t)
-Green d'hide chaps (t)
-Green d'hide body (g)
-Green d'hide chaps (g)
-Black elegant shirt
-Black elegant legs
-White elegant blouse
-White elegant skirt
-Gold elegant shirt
-Gold elegant legs
-Gold elegant blouse
-Gold elegant skirt
-Pink elegant shirt
-Pink elegant legs
-Pink elegant blouse
-Pink elegant skirt
-Purple elegant shirt
-Purple elegant legs
-Purple elegant blouse
-Purple elegant skirt
-Guthix cloak
-Saradomin cloak
-Zamorak cloak
-Ancient cloak
-Bandos cloak
-Armadyl cloak
-Guthix mitre
-Saradomin mitre
-Zamorak mitre
-Ancient mitre
-Bandos mitre
-Armadyl mitre
-Ancient crozier
-Armadyl crozier
-Bandos crozier
-Ranger boots
-Wizard boots
-Holy sandals
-Strength amulet (t)
-Adamant cane
-Gnomish firelighter
-Clueless scroll
-Crier hat
-Crier bell
-Crier coat
-Cat mask
-Penguin mask
-White unicorn mask
-Black unicorn mask
-Leprechaun hat
-Black leprechaun hat
-Arceuus banner
-Hosidius banner
-Lovakengj banner
-Piscarilius banner
-Shayzien banner
-Adamant platebody (h1)
-Adamant platebody (h2)
-Adamant platebody (h3)
-Adamant platebody (h4)
-Adamant platebody (h5)
-Spiked manacles
-Climbing boots (g)
-Wolf cloak
-Wolf mask
+Mithril full helm (t) -- 12293
+Mithril platebody (t) -- 12287
+Mithril platelegs (t) -- 12289
+Mithril plateskirt (t) -- 12295
+Mithril kiteshield (t) -- 12291
+Mithril full helm (g) -- 12283
+Mithril platebody (g) -- 12277
+Mithril platelegs (g) -- 12279
+Mithril plateskirt (g) -- 12285
+Mithril kiteshield (g) -- 12281
+Adamant full helm (t) -- 2605
+Adamant platebody (t) -- 2599
+Adamant platelegs (t) -- 2601
+Adamant plateskirt (t) -- 3474
+Adamant kiteshield (t) -- 2603
+Adamant full helm (g) -- 2613
+Adamant platebody (g) -- 2607
+Adamant platelegs (g) -- 2609
+Adamant plateskirt (g) -- 3475
+Adamant kiteshield (g) -- 2611
+Adamant helm (h1) -- 10296
+Adamant helm (h2) -- 10298
+Adamant helm (h3) -- 10300
+Adamant helm (h4) -- 10302
+Adamant helm (h5) -- 10304
+Adamant shield (h1) -- 7334
+Adamant shield (h2) -- 7340
+Adamant shield (h3) -- 7346
+Adamant shield (h4) -- 7352
+Adamant shield (h5) -- 7358
+Red headband -- 2645
+Black headband -- 2647
+Brown headband -- 2649
+White headband -- 12299
+Blue headband -- 12301
+Gold headband -- 12303
+Pink headband -- 12305
+Green headband -- 12307
+Red boater -- 7319
+Black boater -- 7327
+Brown orange -- 7321
+White boater -- 12313
+Blue boater -- 7325
+Purple boater -- 12311
+Pink boater -- 12309
+Green boater -- 7323
+Green d'hide body (t) -- 7372
+Green d'hide chaps (t) -- 7380
+Green d'hide body (g) -- 7370
+Green d'hide chaps (g) -- 7378
+Black elegant shirt -- 10400
+Black elegant legs -- 10402
+White elegant blouse -- 10420
+White elegant skirt -- 10422
+Gold elegant shirt -- 12347
+Gold elegant legs -- 12349
+Gold elegant blouse -- 12343
+Gold elegant skirt -- 12345
+Pink elegant shirt -- 12315
+Pink elegant legs -- 12317
+Pink elegant blouse -- 12339
+Pink elegant skirt -- 12341
+Purple elegant shirt -- 10416
+Purple elegant legs -- 10418
+Purple elegant blouse -- 10436
+Purple elegant skirt -- 10438
+Guthix cloak -- 10448
+Saradomin cloak -- 10446
+Zamorak cloak -- 10450
+Ancient cloak -- 12197
+Bandos cloak -- 12273
+Armadyl cloak -- 12261
+Guthix mitre -- 10454
+Saradomin mitre -- 10452
+Zamorak mitre -- 10456
+Ancient mitre -- 12203
+Bandos mitre -- 12271
+Armadyl mitre -- 12259
+Ancient crozier -- 12199
+Armadyl crozier -- 12263
+Bandos crozier -- 12275
+Ranger boots -- 2577
+Wizard boots -- 2579
+Holy sandals -- 12598
+Strength amulet (t) -- 10364
+Adamant cane -- 12377
+Gnomish firelighter -- 20275
+Clueless scroll -- 20249
+Crier hat -- 12319
+Crier bell -- 20243
+Crier coat -- 20240
+Cat mask -- 12361
+Penguin mask -- 12428
+White unicorn mask -- 20269
+Black unicorn mask -- 20266
+Leprechaun hat -- 12359
+Black leprechaun hat -- 20246
+Arceuus banner -- 20251
+Hosidius banner -- 20254
+Lovakengj banner -- 20257
+Piscarilius banner -- 20260
+Shayzien banner -- 20263
+Adamant platebody (h1) -- 23392
+Adamant platebody (h2) -- 23395
+Adamant platebody (h3) -- 23398
+Adamant platebody (h4) -- 23401
+Adamant platebody (h5) -- 23404
+Spiked manacles -- 23389
+Climbing boots (g) -- 23413
+Wolf cloak -- 23410
+Wolf mask -- 23407
