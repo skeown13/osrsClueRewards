@@ -147,3 +147,117 @@ Black platebody (h5) -- 23378
 Staff of bob the cat -- 23363
 Leather body (g) -- 23381
 Leather chaps (g) -- 23384
+
+
+*******Medium Clues*******
+Mithril full helm (t)
+Mithril platebody (t)
+Mithril platelegs (t)
+Mithril plateskirt (t)
+Mithril kiteshield (t)
+Mithril full helm (g)
+Mithril platebody (g)
+Mithril platelegs (g)
+Mithril plateskirt (g)
+Mithril kiteshield (g)
+Adamant full helm (t)
+Adamant platebody (t)
+Adamant platelegs (t)
+Adamant plateskirt (t)
+Adamant kiteshield (t)
+Adamant full helm (g)
+Adamant platebody (g)
+Adamant platelegs (g)
+Adamant plateskirt (g)
+Adamant kiteshield (g)
+Adamant helm (h1)
+Adamant helm (h2)
+Adamant helm (h3)
+Adamant helm (h4)
+Adamant helm (h5)
+Adamant shield (h1)
+Adamant shield (h2)
+Adamant shield (h3)
+Adamant shield (h4)
+Adamant shield (h5)
+Red headband
+Black headband
+Brown headband
+White headband
+Blue headband
+Gold headband
+Pink headband
+Green headband
+Red boater
+Black boater
+Brown orange
+White boater
+Blue boater
+Purple boater
+Pink boater
+Green boater
+Green d'hide body (t)
+Green d'hide chaps (t)
+Green d'hide body (g)
+Green d'hide chaps (g)
+Black elegant shirt
+Black elegant legs
+White elegant blouse
+White elegant skirt
+Gold elegant shirt
+Gold elegant legs
+Gold elegant blouse
+Gold elegant skirt
+Pink elegant shirt
+Pink elegant legs
+Pink elegant blouse
+Pink elegant skirt
+Purple elegant shirt
+Purple elegant legs
+Purple elegant blouse
+Purple elegant skirt
+Guthix cloak
+Saradomin cloak
+Zamorak cloak
+Ancient cloak
+Bandos cloak
+Armadyl cloak
+Guthix mitre
+Saradomin mitre
+Zamorak mitre
+Ancient mitre
+Bandos mitre
+Armadyl mitre
+Ancient crozier
+Armadyl crozier
+Bandos crozier
+Ranger boots
+Wizard boots
+Holy sandals
+Strength amulet (t)
+Adamant cane
+Gnomish firelighter
+Clueless scroll
+Crier hat
+Crier bell
+Crier coat
+Cat mask
+Penguin mask
+White unicorn mask
+Black unicorn mask
+Leprechaun hat
+Black leprechaun hat
+Arceuus banner
+Hosidius banner
+Lovakengj banner
+Piscarilius banner
+Shayzien banner
+Adamant platebody (h1)
+Adamant platebody (h2)
+Adamant platebody (h3)
+Adamant platebody (h4)
+Adamant platebody (h5)
+Spiked manacles
+Climbing boots (g)
+Wolf cloak
+Wolf mask
