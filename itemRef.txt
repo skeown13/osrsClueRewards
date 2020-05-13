@@ -261,3 +261,162 @@ Spiked manacles -- 23389
 Climbing boots (g) -- 23413
 Wolf cloak -- 23410
 Wolf mask -- 23407
+
+
+*******Hard Clues*******
+Rune full helm (t)
+Rune platebody (t)
+Rune platelegs (t)
+Rune plateskirt (t)
+Rune kiteshield (t)
+Rune full helm (g)
+Rune platebody (g)
+Rune platelegs (g)
+Rune plateskirt (g)
+Rune kiteshield (g)
+Guthix full helm
+Guthix platebody
+Guthix platelegs
+Guthix plateskirt
+Guthix kiteshield
+Saradomin full helm
+Saradomin platebody
+Saradomin platelegs
+Saradomin plateskirt
+Saradomin kiteshield
+Zamorak full helm
+Zamorak platebody
+Zamorak platelegs
+Zamorak plateskirt
+Zamorak kiteshield
+Ancient full helm
+Ancient platebody
+Ancient platelegs
+Ancient plateskirt
+Ancient kiteshield
+Bandos full helm
+Bandos platebody
+Bandos platelegs
+Bandos plateskirt
+Bandos kiteshield
+Armadyl full helm
+Armadyl platebody
+Armadyl platelegs
+Armadyl plateskirt
+Armadyl kiteshield
+Gilded full helm
+Gilded platebody
+Gilded platelegs
+Gilded plateskirt
+Gilded kiteshield
+Gilded med helm
+Gilded chainbody
+Gilded sq shield
+Gilded 2h sword
+Gilded spear
+Gilded hasta
+Rune helm (h1)
+Rune helm (h2)
+Rune helm (h3)
+Rune helm (h4)
+Rune helm (h5)
+Rune shield (h1)
+Rune shield (h2)
+Rune shield (h3)
+Rune shield (h4)
+Rune shield (h5)
+Blue d'hide body (t)
+Blue d'hide chaps (t)
+Blue d'hide body (g)
+Blue d'hide chaps (g)
+Red d'hide body (t)
+Red d'hide chaps (t)
+Red d'hide body (g)
+Red d'hide chaps (g)
+Guthix coif
+Guthix d'hide body
+Guthix chaps
+Guthix bracers
+Guthix d'hide boots
+Saradomin coif
+Saradomin d'hide body
+Saradomin chaps
+Saradomin bracers
+Saradomin d'hide boots
+Zamorak coif
+Zamorak d'hide body
+Zamorak chaps
+Zamorak bracers
+Zamorak d'hide boots
+Armadyl coif
+Armadyl d'hide body
+Armadyl chaps
+Armadyl bracers
+Armadyl d'hide boots
+Ancient coif
+Ancient d'hide body
+Ancient chaps
+Ancient bracers
+Ancient d'hide boots
+Bandos coif
+Bandos d'hide body
+Bandos chaps
+Bandos bracers
+Bandos d'hide boots
+3rd age full helmet
+3rd age platebody
+3rd age platelegs
+3rd age plateskirt
+3rd age kiteshield
+3rd age range coif
+3rd age range top
+3rd age range legs
+3rd age vambraces
+3rd age mage hat
+3rd age robe top
+3rd age robe
+3rd age amulet
+Enchanted hat
+Enchanted top
+Enchanted robe
+Green dragon mask
+Blue dragon mask
+Red dragon mask
+Black dragon mask
+Zombie head
+Cyclops head
+Pirate's hat
+Robin hood hat
+Pith helmet
+Guthix stole
+Saradomin stole
+Zamorak stole
+Guthix crozier
+Saradomin crozier
+Zamorak crozier
+Tan cavalier
+Dark cavalier
+Black cavalier
+White cavalier
+Red cavalier
+Navy cavalier
+Amulet of glory (t)
+Nunchaku
+Rune cane
+Explorer backpack
+Dual sai
+Thieving bag
+Rune defender ornament kit
+Tzhaar-ket-om ornament kit
+Berserker necklace ornament kit
+Guthix d'hide shield
+Saradomin d'hide shield
+Zamorak d'hide shield
+Ancient d'hide shield
+Bandos d'hide shield
+Armadyl d'hide shield
+Rune platebody (h1)
+Rune platebody (h2)
+Rune platebody (h3)
+Rune platebody (h4)
+Rune platebody (h5)
