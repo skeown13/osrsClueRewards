@@ -423,72 +423,72 @@ Rune platebody (h5) -- 23221
 
 
 *******Elite Clues*******
-Dragon full helm ornament kit
-Dragon chainbody ornament kit
-Dragon legs/skirt ornament kit
-Dragon sq shield ornament kit
-Dragon scimitar ornament kit
-Light infinity color kit
-Dark infinity color kit
-Fury ornament kit
-Bronze dragon mask
-Iron dragon mask
-Steel dragon mask
-Mithril dragon mask
-Adamant dragon mask
-Rune dragon mask
-Lava dragon mask
-Black d'hide body (t)
-Black d'hide chaps (t)
-Black d'hide body (g)
-Black d'hide chaps (g)
-Rangers' tunic
-Rangers' tights
-Ranger gloves
-Holy wraps
-Light bow tie
-Light tuxedo jacket
-Light trousers
-Light tuxedo cuffs
-Light tuxedo shoes
-Dark bow tie
-Dark tuxedo jacket
-Dark trousers
-Dark tuxedo cuffs
-Dark tuxedo shoes
-Monocle
-Top hat
-Sagacious spectacles
-Briefcase
-Dragon cane
-Royal crown
-Royal gown top
-Royal gown bottom
-Royal sceptre
-Ring of nature
-Heavy casket
-Gilded boots
-Gilded coif
-Gilded d'hide body
-Gilded d'hide chaps
-Gilded d'hide vambraces
-Gilded axe
-Gilded pickaxe
-Gilded spade
-Bucket helm
-Blacksmith's helm
-Big pirate hat
-Deerstalker
-Afro
-Muskateer hat
-Muskateer tabard
-Muskateer pants
-Arceuus scarf
-Hosidius scarf
-Lovakengj scarf
-Piscarilius scarf
-Shayzien scarf
-3rd age bow
-3rd age cloak
-3rd age longsword
-Uri's hat
+Dragon full helm ornament kit -- 12538
+Dragon chainbody ornament kit -- 12534
+Dragon legs/skirt ornament kit -- 12536
+Dragon sq shield ornament kit -- 12532
+Dragon scimitar ornament kit -- 20002
+Light infinity color kit -- 12530
+Dark infinity color kit -- 12528
+Fury ornament kit -- 12526
+Bronze dragon mask -- 12363
+Iron dragon mask -- 12365
+Steel dragon mask -- 12367
+Mithril dragon mask -- 12369
+Adamant dragon mask -- 23270
+Rune dragon mask -- 23273
+Lava dragon mask -- 12371
+Black d'hide body (t) -- 12385
+Black d'hide chaps (t) -- 12387
+Black d'hide body (g) -- 12381
+Black d'hide chaps (g) -- 12383
+Rangers' tunic -- 12596
+Rangers' tights -- 23249
+Ranger gloves -- 19994
+Holy wraps -- 19997
+Light bow tie -- 19985
+Light tuxedo jacket -- 19973
+Light trousers -- 19979
+Light tuxedo cuffs -- 19976
+Light tuxedo shoes -- 19982
+Dark bow tie -- 19970
+Dark tuxedo jacket -- 19958
+Dark trousers -- 19964
+Dark tuxedo cuffs -- 19961
+Dark tuxedo shoes -- 19967
+Monocle -- 12353
+Top hat -- 12432
+Sagacious spectacles -- 12337
+Briefcase -- 12335
+Dragon cane -- 12373
+Royal crown -- 12397
+Royal gown top -- 12393
+Royal gown bottom -- 12395
+Royal sceptre -- 12439
+Ring of nature -- 20005
+Heavy casket -- 19941
+Gilded boots -- 12391
+Gilded coif -- 23258
+Gilded d'hide body -- 23264
+Gilded d'hide chaps -- 23267
+Gilded d'hide vambraces -- 23261
+Gilded axe -- 23279
+Gilded pickaxe -- 23276
+Gilded spade -- 23282
+Bucket helm -- 19991
+Blacksmith's helm -- 19988
+Big pirate hat -- 12355
+Deerstalker -- 12540
+Afro -- 12430
+Muskateer hat -- 12351
+Muskateer tabard -- 12441
+Muskateer pants -- 12443
+Arceuus scarf -- 19943
+Hosidius scarf -- 19946
+Lovakengj scarf -- 19949
+Piscarilius scarf -- 19952
+Shayzien scarf -- 19955
+3rd age bow -- 12424
+3rd age cloak -- 12437
+3rd age longsword -- 12426
+Uri's hat -- 23255
