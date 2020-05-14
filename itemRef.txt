@@ -480,9 +480,9 @@ Blacksmith's helm -- 19988
 Big pirate hat -- 12355
 Deerstalker -- 12540
 Afro -- 12430
-Muskateer hat -- 12351
-Muskateer tabard -- 12441
-Muskateer pants -- 12443
+Musketeer hat -- 12351
+Musketeer tabard -- 12441
+Musketeer pants -- 12443
 Arceuus scarf -- 19943
 Hosidius scarf -- 19946
 Lovakengj scarf -- 19949
