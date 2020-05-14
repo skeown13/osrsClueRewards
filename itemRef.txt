@@ -420,3 +420,75 @@ Rune platebody (h2) -- 23212
 Rune platebody (h3) -- 23215
 Rune platebody (h4) -- 23218
 Rune platebody (h5) -- 23221
+
+
+*******Elite Clues*******
+Dragon full helm ornament kit
+Dragon chainbody ornament kit
+Dragon legs/skirt ornament kit
+Dragon sq shield ornament kit
+Dragon scimitar ornament kit
+Light infinity color kit
+Dark infinity color kit
+Fury ornament kit
+Bronze dragon mask
+Iron dragon mask
+Steel dragon mask
+Mithril dragon mask
+Adamant dragon mask
+Rune dragon mask
+Lava dragon mask
+Black d'hide body (t)
+Black d'hide chaps (t)
+Black d'hide body (g)
+Black d'hide chaps (g)
+Rangers' tunic
+Rangers' tights
+Ranger gloves
+Holy wraps
+Light bow tie
+Light tuxedo jacket
+Light trousers
+Light tuxedo cuffs
+Light tuxedo shoes
+Dark bow tie
+Dark tuxedo jacket
+Dark trousers
+Dark tuxedo cuffs
+Dark tuxedo shoes
+Monocle
+Top hat
+Sagacious spectacles
+Briefcase
+Dragon cane
+Royal crown
+Royal gown top
+Royal gown bottom
+Royal sceptre
+Ring of nature
+Heavy casket
+Gilded boots
+Gilded coif
+Gilded d'hide body
+Gilded d'hide chaps
+Gilded d'hide vambraces
+Gilded axe
+Gilded pickaxe
+Gilded spade
+Bucket helm
+Blacksmith's helm
+Big pirate hat
+Deerstalker
+Afro
+Muskateer hat
+Muskateer tabard
+Muskateer pants
+Arceuus scarf
+Hosidius scarf
+Lovakengj scarf
+Piscarilius scarf
+Shayzien scarf
+3rd age bow
+3rd age cloak
+3rd age longsword
+Uri's hat
