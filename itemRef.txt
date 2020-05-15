@@ -1,7 +1,7 @@
 *******Beginner Clues*******
-Rune scimitar ornamit kit (guthix) -- 23321
-Rune scimitar ornamit kit (saradomin) -- 23324
-Rune scimitar ornamit kit (zamorak) -- 23327
+Rune scimitar ornament kit (guthix) -- 23321
+Rune scimitar ornament kit (saradomin) -- 23324
+Rune scimitar ornament kit (zamorak) -- 23327
 Bear feet -- 23291
 Demon feet -- 23294
 Frog slippers -- 23288
@@ -678,3 +678,6 @@ Purple firelighter -- 10326
 White firelighter -- 10327
 Charge dragonstone jewellery scroll -- 20238
 Purple sweets -- 10483
+
+
+*******Milestone Rewards*******
