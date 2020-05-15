@@ -233,13 +233,15 @@ Armadyl mitre -- 12259
 Ancient crozier -- 12199
 Armadyl crozier -- 12263
 Bandos crozier -- 12275
+Ancient stole -- 12201
+Armadyl stole -- 12257
+Bandos stole -- 12269
 Ranger boots -- 2577
 Wizard boots -- 2579
 Holy sandals -- 12598
 Strength amulet (t) -- 10364
 Adamant cane -- 12377
 Gnomish firelighter -- 20275
-Clueless scroll -- 20249
 Crier hat -- 12319
 Crier bell -- 20243
 Crier coat -- 20240
@@ -263,6 +265,8 @@ Spiked manacles -- 23389
 Climbing boots (g) -- 23413
 Wolf cloak -- 23410
 Wolf mask -- 23407
+Yew comp bow -- 10282
+Cabbage round shield -- 20272
 
 
 *******Hard Clues*******
