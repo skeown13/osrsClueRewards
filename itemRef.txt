@@ -1,154 +1,154 @@
 *******Beginner Clues*******
-Rune scimitar ornament kit (guthix)
-Rune scimitar ornament kit (saradomin)
-Rune scimitar ornament kit (zamorak)
-Bear feet
-Demon feet
-Frog slippers
-Mole slippers
-Jester cape
-Monk's robe top (t)
-Monk's robe (t)
-Sandwich lady hat
-Sandwich lady top
-Sandwich lady bottom
-Amulet of defense (t)
-Shoulder parrot
-Black pickaxe
+Rune scimitar ornament kit (guthix) -- 23321
+Rune scimitar ornament kit (saradomin) -- 23324
+Rune scimitar ornament kit (zamorak) -- 23327
+Bear feet -- 23291
+Demon feet -- 23294
+Frog slippers -- 23288
+Mole slippers -- 23285
+Jester cape -- 23297
+Monk's robe top (t) -- 23303
+Monk's robe (t) -- 23306
+Sandwich lady hat -- 23312
+Sandwich lady top -- 23315
+Sandwich lady bottom -- 23318
+Amulet of defense (t) -- 23309
+Shoulder parrot -- 23300
+Black pickaxe -- 12297
 
 
 *******Easy Clues*******
-Bronze full helm (t)
-Bronze platebody (t)
-Bronze platelegs (t)
-Bronze plateskirt (t)
-Bronze kiteshield (t)
-Bronze full helm (g)
-Bronze platebody (g)
-Bronze platelegs (g)
-Bronze plateskirt (g)
-Bronze kiteshield (g)
-Iron full helm (t)
-Iron platebody (t)
-Iron platelegs (t)
-Iron plateskirt (t)
-Iron kiteshield (t)
-Iron full helm (g)
-Iron platebody (g)
-Iron platelegs (g)
-Iron plateskirt (g)
-Iron kiteshield (g)
-Steel full helm (t)
-Steel platebody (t)
-Steel platelegs (t)
-Steel plateskirt (t)
-Steel kiteshield (t)
-Steel full helm (g)
-Steel platebody (g)
-Steel platelegs (g)
-Steel plateskirt (g)
-Steel kiteshield (g)
-Black full helm (t)
-Black platebody (t)
-Black platelegs (t)
-Black plateskirt (t)
-Black kiteshield (t)
-Black full helm (g)
-Black platebody (g)
-Black platelegs (g)
-Black plateskirt (g)
-Black kiteshield (g)
-Black helm (h1)
-Black helm (h2)
-Black helm (h3)
-Black helm (h4)
-Black helm (h5)
-Black platebody (h1)
-Black platebody (h2)
-Black platebody (h3)
-Black platebody (h4)
-Black platebody (h5)
-Black shield (h1)
-Black shield (h2)
-Black shield (h3)
-Black shield (h4)
-Black shield (h5)
-Studded body (t)
-Studded chaps (t)
-Studded body (g)
-Studded chaps (g)
-Leather body (g)
-Leather chaps (g)
-Blue wizard hat (t)
-Blue wizard robe (t)
-Blue skirt (t)
-Blue wizard hat (g)
-Blue wizard robe (g)
-Blue skirt (g)
-Black wizard hat (t)
-Black wizard robe (t)
-Black skirt (t)
-Black wizard hat (g)
-Black wizard robe (g)
-Black skirt (g)
-Guthix robe top
-Guthix robe legs
-Saradomin robe top
-Saradomin robe legs
-Zamorak robe top
-Zamorak robe legs
-Ancient robe top
-Ancient robe legs
-Bandos robe top
-Bandos robe legs
-Armadyl robe top
-Armadyl robe legs
-Blue elegant shirt
-Blue elegant legs
-Blue elegant blouse
-Blue elegant skirt
-Green elegant shirt
-Green elegant legs
-Green elegant blouse
-Green elegant skirt
-Red elegant shirt
-Red elegant legs
-Red elegant blouse
-Red elegant skirt
-Black beret
-Blue beret
-White beret
-Red beret
-Team cape i
-Team cape x
-Team cape zero
-Cape of skulls
-Bob's red shirt
-Bob's blue shirt
-Bob's green shirt
-Bob's black shirt
-Bob's purple shirt
-Staff of bob the cat
-Amulet of magic (t)
-Amulet of power (t)
-Highwayman mask
-Beanie
-A powdered wig
-Flared trousers
-Pantaloons
-Sleeping cap
-Imp mask
-Goblin mask
-Black cane
-Black pickaxe
-Golden chef's hat
-Golden apron
-Wooden shield (g)
-Monk's robe top (g)
-Monk's robe (g)
-Ham joint
-Rain bow
-Willow comp bow
+Bronze full helm (t) -- 12221
+Bronze platebody (t) -- 12215
+Bronze platelegs (t) -- 12217
+Bronze plateskirt (t) -- 12219
+Bronze kiteshield (t) -- 12223
+Bronze full helm (g) -- 12211
+Bronze platebody (g) -- 12205
+Bronze platelegs (g) -- 12207
+Bronze plateskirt (g) -- 12209
+Bronze kiteshield (g) -- 12213
+Iron full helm (t) -- 12231
+Iron platebody (t) -- 12225
+Iron platelegs (t) -- 12227
+Iron plateskirt (t) -- 12229
+Iron kiteshield (t) -- 12233
+Iron full helm (g) -- 12241
+Iron platebody (g) -- 12235
+Iron platelegs (g) -- 12237
+Iron plateskirt (g) -- 12239
+Iron kiteshield (g) -- 12243
+Steel full helm (t) -- 20193
+Steel platebody (t) -- 20184
+Steel platelegs (t) -- 20187
+Steel plateskirt (t) -- 20190
+Steel kiteshield (t) -- 20196
+Steel full helm (g) -- 20178
+Steel platebody (g) -- 20169
+Steel platelegs (g) -- 20172
+Steel plateskirt (g) -- 20175
+Steel kiteshield (g) -- 20181
+Black full helm (t) -- 2587
+Black platebody (t) -- 2583
+Black platelegs (t) -- 2585
+Black plateskirt (t) -- 3472
+Black kiteshield (t) -- 2589
+Black full helm (g) -- 2595
+Black platebody (g) -- 2591
+Black platelegs (g) -- 2593
+Black plateskirt (g) -- 3473
+Black kiteshield (g) -- 2597
+Black helm (h1) -- 10306
+Black helm (h2) -- 10308
+Black helm (h3) -- 10310
+Black helm (h4) -- 10312
+Black helm (h5) -- 10314
+Black platebody (h1) -- 23366
+Black platebody (h2) -- 23369
+Black platebody (h3) -- 23372
+Black platebody (h4) -- 23375
+Black platebody (h5) -- 23378
+Black shield (h1) -- 7332
+Black shield (h2) -- 7338
+Black shield (h3) -- 7344
+Black shield (h4) -- 7350
+Black shield (h5) -- 7356
+Studded body (t) -- 7364
+Studded chaps (t) -- 7368
+Studded body (g) -- 7362
+Studded chaps (g) -- 7366
+Leather body (g) -- 23381
+Leather chaps (g) -- 23384
+Blue wizard hat (t) -- 7396
+Blue wizard robe (t) -- 7392
+Blue skirt (t) -- 7388
+Blue wizard hat (g) -- 7394
+Blue wizard robe (g) -- 7390
+Blue skirt (g) -- 7386
+Black wizard hat (t) -- 12455
+Black wizard robe (t) -- 12451
+Black skirt (t) -- 12447
+Black wizard hat (g) -- 12453
+Black wizard robe (g) -- 12449
+Black skirt (g) -- 12445
+Guthix robe top -- 10462
+Guthix robe legs -- 10466
+Saradomin robe top -- 10458
+Saradomin robe legs -- 10464
+Zamorak robe top -- 10460
+Zamorak robe legs -- 10468
+Ancient robe top -- 12193
+Ancient robe legs -- 12195
+Bandos robe top -- 12265
+Bandos robe legs -- 12267
+Armadyl robe top -- 12253
+Armadyl robe legs -- 12255
+Blue elegant shirt -- 10408
+Blue elegant legs -- 10410
+Blue elegant blouse -- 10428
+Blue elegant skirt -- 10430
+Green elegant shirt -- 10412
+Green elegant legs -- 10414
+Green elegant blouse -- 10432
+Green elegant skirt -- 10434
+Red elegant shirt -- 10404
+Red elegant legs -- 10406
+Red elegant blouse -- 10424
+Red elegant skirt -- 10426
+Black beret -- 2635
+Blue beret -- 2633
+White beret -- 2637
+Red beret -- 12247
+Team cape i -- 20217
+Team cape x -- 20214
+Team cape zero -- 20211
+Cape of skulls -- 23351
+Bob's red shirt -- 10316
+Bob's blue shirt -- 10318
+Bob's green shirt -- 10320
+Bob's black shirt -- 10322
+Bob's purple shirt -- 10324
+Staff of bob the cat -- 23363
+Amulet of magic (t) -- 10366
+Amulet of power (t) -- 23354
+Highwayman mask -- 2631
+Beanie -- 12245
+A powdered wig -- 10392
+Flared trousers -- 10394
+Pantaloons -- 10396
+Sleeping cap -- 10398
+Imp mask -- 12249
+Goblin mask -- 12251
+Black cane -- 12375
+Black pickaxe -- 12297
+Golden chef's hat -- 20205
+Golden apron -- 20208
+Wooden shield (g) -- 20166
+Monk's robe top (g) -- 20199
+Monk's robe (g) -- 20202
+Ham joint -- 23360
+Rain bow -- 23357
+Willow comp bow -- 10280
 
 
 *******Medium Clues*******
