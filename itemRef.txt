@@ -475,7 +475,19 @@ Royal gown bottom -- 12395
 Royal sceptre -- 12439
 Ring of nature -- 20005
 Heavy casket -- 19941
+Gilded scimitar -- 12389
 Gilded boots -- 12391
+Gilded full helm -- 3486
+Gilded platebody -- 3481
+Gilded platelegs -- 3483
+Gilded plateskirt -- 3485
+Gilded kiteshield -- 3488
+Gilded med helm -- 20146
+Gilded chainbody -- 20149
+Gilded sq shield -- 20152
+Gilded 2h sword -- 20155
+Gilded spear -- 20158
+Gilded hasta -- 20161
 Gilded coif -- 23258
 Gilded d'hide body -- 23264
 Gilded d'hide chaps -- 23267
@@ -499,7 +511,24 @@ Shayzien scarf -- 19955
 3rd age bow -- 12424
 3rd age cloak -- 12437
 3rd age longsword -- 12426
+3rd age wand -- 12422
+3rd age full helmet -- 10350
+3rd age platebody -- 10348
+3rd age platelegs -- 10346
+3rd age plateskirt -- 23242
+3rd age kiteshield -- 10352
+3rd age range coif -- 10334
+3rd age range top -- 10330
+3rd age range legs -- 10332
+3rd age vambraces -- 10336
+3rd age mage hat -- 10342
+3rd age robe top -- 10338
+3rd age robe -- 10340
+3rd age amulet -- 10344
+Ring of 3rd age -- 23185
 Uri's hat -- 23255
+Fremennik kilt -- 23246
+Giant boot -- 23252
 
 
 *******Master Clues*******
