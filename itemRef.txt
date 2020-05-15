@@ -1,18 +1,18 @@
 *******Beginner Clues*******
-Amulet of defense (t) -- 23309
-Bear feet -- 23291
-Demon feet -- 23294
-Frog slippers -- 23288
-Jester cape -- 23297
-Mole slippers -- 23285
-Monk's robe (t) -- 23306
-Monk's robe top (t) -- 23303
 Rune scimitar ornamit kit (guthix) -- 23321
 Rune scimitar ornamit kit (saradomin) -- 23324
 Rune scimitar ornamit kit (zamorak) -- 23327
-Sandwich lady bottom -- 23318
+Bear feet -- 23291
+Demon feet -- 23294
+Frog slippers -- 23288
+Mole slippers -- 23285
+Jester cape -- 23297
+Monk's robe top (t) -- 23303
+Monk's robe (t) -- 23306
 Sandwich lady hat -- 23312
 Sandwich lady top -- 23315
+Sandwich lady bottom -- 23318
+Amulet of defense (t) -- 23309
 Shoulder parrot -- 23300
 Black pickaxe -- 12297
 
