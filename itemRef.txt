@@ -63,23 +63,22 @@ Black helm (h2) -- 10308
 Black helm (h3) -- 10310
 Black helm (h4) -- 10312
 Black helm (h5) -- 10314
+Black platebody (h1) -- 23366
+Black platebody (h2) -- 23369
+Black platebody (h3) -- 23372
+Black platebody (h4) -- 23375
+Black platebody (h5) -- 23378
 Black shield (h1) -- 7332
 Black shield (h2) -- 7338
 Black shield (h3) -- 7344
 Black shield (h4) -- 7350
 Black shield (h5) -- 7356
-Blue elegant shirt -- 10408
-Blue elegant legs -- 10410
-Blue elegant blouse -- 10428
-Blue elegant skirt -- 10430
-Green elegant shirt -- 10412
-Green elegant legs -- 10414
-Green elegant blouse -- 10432
-Green elegant skirt -- 10434
-Red elegant shirt -- 10404
-Red elegant legs -- 10406
-Red elegant blouse -- 10424
-Red elegant skirt -- 10426
+Studded body (t) -- 7364
+Studded chaps (t) -- 7368
+Studded body (g) -- 7362
+Studded chaps (g) -- 7366
+Leather body (g) -- 23381
+Leather chaps (g) -- 23384
 Blue wizard hat (t) -- 7396
 Blue wizard robe (t) -- 7392
 Blue skirt (t) -- 7388
@@ -92,36 +91,48 @@ Black skirt (t) -- 12447
 Black wizard hat (g) -- 12453
 Black wizard robe (g) -- 12449
 Black skirt (g) -- 12445
-Studded body (t) -- 7364
-Studded chaps (t) -- 7368
-Studded body (g) -- 7362
-Studded chaps (g) -- 7366
-Team cape i -- 20217
-Team cape x -- 20214
-Team cape zero -- 20211
 Guthix robe top -- 10462
-Saradomin robe top -- 10458
-Zamorak robe top -- 10460
-Ancient robe top -- 12193
-Bandos robe top -- 12265
-Armadyl robe top -- 12253
 Guthix robe legs -- 10466
+Saradomin robe top -- 10458
 Saradomin robe legs -- 10464
+Zamorak robe top -- 10460
 Zamorak robe legs -- 10468
+Ancient robe top -- 12193
 Ancient robe legs -- 12195
+Bandos robe top -- 12265
 Bandos robe legs -- 12267
+Armadyl robe top -- 12253
 Armadyl robe legs -- 12255
+Blue elegant shirt -- 10408
+Blue elegant legs -- 10410
+Blue elegant blouse -- 10428
+Blue elegant skirt -- 10430
+Green elegant shirt -- 10412
+Green elegant legs -- 10414
+Green elegant blouse -- 10432
+Green elegant skirt -- 10434
+Red elegant shirt -- 10404
+Red elegant legs -- 10406
+Red elegant blouse -- 10424
+Red elegant skirt -- 10426
 Black beret -- 2635
 Blue beret -- 2633
 White beret -- 2637
 Red beret -- 12247
-Highwayman mask -- 2631
-Beanie -- 12245
+Team cape i -- 20217
+Team cape x -- 20214
+Team cape zero -- 20211
+Cape of skulls -- 23351
 Bob's red shirt -- 10316
 Bob's blue shirt -- 10318
 Bob's green shirt -- 10320
 Bob's black shirt -- 10322
 Bob's purple shirt -- 10324
+Staff of bob the cat -- 23363
+Amulet of magic (t) -- 10366
+Amulet of power (t) -- 23354
+Highwayman mask -- 2631
+Beanie -- 12245
 A powdered wig -- 10392
 Flared trousers -- 10394
 Pantaloons -- 10396
@@ -129,25 +140,14 @@ Sleeping cap -- 10398
 Imp mask -- 12249
 Goblin mask -- 12251
 Black cane -- 12375
-Amulet of magic (t) -- 10366
-Amulet of power (t) -- 23354
 Black pickaxe -- 12297
-Wooden shield (g) -- 20166
 Golden chef's hat -- 20205
 Golden apron -- 20208
+Wooden shield (g) -- 20166
 Monk's robe top (g) -- 20199
 Monk's robe (g) -- 20202
-Cape of skulls -- 23351
-Rain bow -- 23357
 Ham joint -- 23360
-Black platebody (h1) -- 23366
-Black platebody (h2) -- 23369
-Black platebody (h3) -- 23372
-Black platebody (h4) -- 23375
-Black platebody (h5) -- 23378
-Staff of bob the cat -- 23363
-Leather body (g) -- 23381
-Leather chaps (g) -- 23384
+Rain bow -- 23357
 Willow comp bow -- 10280
 
 
