@@ -14,6 +14,7 @@ Sandwich lady bottom -- 23318
 Sandwich lady hat -- 23312
 Sandwich lady top -- 23315
 Shoulder parrot -- 23300
+Black pickaxe -- 12297
 
 
 *******Easy Clues*******
