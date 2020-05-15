@@ -551,35 +551,35 @@ Bloodhound -- 19730
 
 
 *******Shared Clues*******
-Master scroll book (empty)
-Ancient page 1
-Ancient page 2
-Ancient page 3
-Ancient page 4
-Armadyl page 1
-Armadyl page 2
-Armadyl page 3
-Armadyl page 4
-Bandos page 1
-Bandos page 2
-Bandos page 3
-Bandos page 4
-Guthix page 1
-Guthix page 2
-Guthix page 3
-Guthix page 4
-Saradomin page 1
-Saradomin page 2
-Saradomin page 3
-Saradomin page 4
-Zamorak page 1
-Zamorak page 2
-Zamorak page 3
-Zamorak page 4
-Ancient blessing
-Holy blessing
-Honourable blessing
-Peaceful blessing
-Unholy blessing
-War blessing
-Ring of 3rd age
+Master scroll book (empty) -- 21387
+Ancient page 1 -- 12621
+Ancient page 2 -- 12622
+Ancient page 3 -- 12623
+Ancient page 4 -- 12624
+Armadyl page 1 -- 12617
+Armadyl page 2 -- 12618
+Armadyl page 3 -- 12619
+Armadyl page 4 -- 12620
+Bandos page 1 -- 12613
+Bandos page 2 -- 12614
+Bandos page 3 -- 12615
+Bandos page 4 -- 12616
+Guthix page 1 -- 3835
+Guthix page 2 -- 3836
+Guthix page 3 -- 3837
+Guthix page 4 -- 3838
+Saradomin page 1 -- 3827
+Saradomin page 2 -- 3828
+Saradomin page 3 -- 3829
+Saradomin page 4 -- 3830
+Zamorak page 1 -- 3831
+Zamorak page 2 -- 3832
+Zamorak page 3 -- 3833
+Zamorak page 4 -- 3834
+Ancient blessing -- 20235
+Holy blessing -- 20220
+Honourable blessing -- 20229
+Peaceful blessing -- 20226
+Unholy blessing -- 20223
+War blessing -- 20232
+Ring of 3rd age -- 23185
