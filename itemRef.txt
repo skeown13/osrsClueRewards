@@ -148,6 +148,7 @@ Black platebody (h5) -- 23378
 Staff of bob the cat -- 23363
 Leather body (g) -- 23381
 Leather chaps (g) -- 23384
+Willow comp bow -- 10280
 
 
 *******Medium Clues*******
