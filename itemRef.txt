@@ -412,6 +412,7 @@ Rune cane -- 12379
 Explorer backpack -- 12514
 Dual sai -- 23206
 Thieving bag -- 23224
+Dragon boots ornament kit -- 22231
 Rune defender ornament kit -- 23227
 Tzhaar-ket-om ornament kit -- 23232
 Berserker necklace ornament kit -- 23237
@@ -426,6 +427,7 @@ Rune platebody (h2) -- 23212
 Rune platebody (h3) -- 23215
 Rune platebody (h4) -- 23218
 Rune platebody (h5) -- 23221
+Magic comp bow -- 10284
 
 
 *******Elite Clues*******
