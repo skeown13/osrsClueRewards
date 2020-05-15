@@ -629,19 +629,6 @@ Ale of the gods -- 20056
 
 
 *******Shared Clues*******
-Master scroll book (empty) -- 21387
-Ancient page 1 -- 12621
-Ancient page 2 -- 12622
-Ancient page 3 -- 12623
-Ancient page 4 -- 12624
-Armadyl page 1 -- 12617
-Armadyl page 2 -- 12618
-Armadyl page 3 -- 12619
-Armadyl page 4 -- 12620
-Bandos page 1 -- 12613
-Bandos page 2 -- 12614
-Bandos page 3 -- 12615
-Bandos page 4 -- 12616
 Guthix page 1 -- 3835
 Guthix page 2 -- 3836
 Guthix page 3 -- 3837
@@ -654,22 +641,35 @@ Zamorak page 1 -- 3831
 Zamorak page 2 -- 3832
 Zamorak page 3 -- 3833
 Zamorak page 4 -- 3834
+Ancient page 1 -- 12621
+Ancient page 2 -- 12622
+Ancient page 3 -- 12623
+Ancient page 4 -- 12624
+Bandos page 1 -- 12613
+Bandos page 2 -- 12614
+Bandos page 3 -- 12615
+Bandos page 4 -- 12616
+Armadyl page 1 -- 12617
+Armadyl page 2 -- 12618
+Armadyl page 3 -- 12619
+Armadyl page 4 -- 12620
 Ancient blessing -- 20235
 Holy blessing -- 20220
+Unholy blessing -- 20223
 Honourable blessing -- 20229
 Peaceful blessing -- 20226
-Unholy blessing -- 20223
 War blessing -- 20232
+Master scroll book (empty) -- 21387
 Nardah teleport -- 12402
 Mos le'harmless teleport -- 12411
 Mort'ton teleport -- 12406
 Feldip hills teleport -- 12404
 Lunar isle teleport -- 12405
 Digsite teleport -- 12403
+Lumberyard teleport -- 12642
 Piscatoris teleport -- 12408
 Pest control teleport -- 12407
 Tai bwo wannai teleport -- 12409
-Lumberyard teleport -- 12642
 Iorwerth camp teleport -- 12410
 Red firelighter -- 7329
 Green firelighter -- 7330
