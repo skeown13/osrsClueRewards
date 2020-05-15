@@ -533,9 +533,12 @@ Giant boot -- 23252
 
 *******Master Clues*******
 Dragon defender ornament kit -- 20143
+Dragon kiteshield ornament kit -- 22239
+Dragon platebody ornament kit -- 22236
 Occult ornament kit -- 20065
 Torture ornament kit -- 20062
 Tormented ornament kit -- 23348
+Anguish ornament kit -- 22246
 Armadyl godsword ornament kit -- 20068
 Bandos godsword ornament kit -- 20071
 Saradomin godsword ornament kit -- 20074
@@ -581,10 +584,48 @@ Bowl wig -- 20110
 Bloodhound -- 19730
 3rd age axe -- 20011
 3rd age pickaxe -- 20014
+3rd age bow -- 12424
+3rd age cloak -- 12437
+3rd age longsword -- 12426
+3rd age wand -- 12422
+3rd age full helmet -- 10350
+3rd age platebody -- 10348
+3rd age platelegs -- 10346
+3rd age plateskirt -- 23242
+3rd age kiteshield -- 10352
+3rd age range coif -- 10334
+3rd age range top -- 10330
+3rd age range legs -- 10332
+3rd age vambraces -- 10336
+3rd age mage hat -- 10342
+3rd age robe top -- 10338
+3rd age robe -- 10340
+3rd age amulet -- 10344
 3rd age druidic robe top -- 23336
 3rd age druidic robe bottoms -- 23339
 3rd age druidic cloak -- 23345
 3rd age druidic staff -- 23342
+Ring of 3rd age -- 23185
+Gilded scimitar -- 12389
+Gilded boots -- 12391
+Gilded full helm -- 3486
+Gilded platebody -- 3481
+Gilded platelegs -- 3483
+Gilded plateskirt -- 3485
+Gilded kiteshield -- 3488
+Gilded med helm -- 20146
+Gilded chainbody -- 20149
+Gilded sq shield -- 20152
+Gilded 2h sword -- 20155
+Gilded spear -- 20158
+Gilded hasta -- 20161
+Gilded coif -- 23258
+Gilded d'hide body -- 23264
+Gilded d'hide chaps -- 23267
+Gilded d'hide vambraces -- 23261
+Gilded axe -- 23279
+Gilded pickaxe -- 23276
+Gilded spade -- 23282
 
 
 *******Shared Clues*******
@@ -619,4 +660,21 @@ Honourable blessing -- 20229
 Peaceful blessing -- 20226
 Unholy blessing -- 20223
 War blessing -- 20232
-Ring of 3rd age -- 23185
+Nardah teleport -- 12402
+Mos le'harmless teleport -- 12411
+Mort'ton teleport -- 12406
+Feldip hills teleport -- 12404
+Lunar isle teleport -- 12405
+Digsite teleport -- 12403
+Piscatoris teleport -- 12408
+Pest control teleport -- 12407
+Tai bwo wannai teleport -- 12409
+Lumberyard teleport -- 12642
+Iorwerth camp teleport -- 12410
+Red firelighter -- 7329
+Green firelighter -- 7330
+Blue firelighter -- 7331
+Purple firelighter -- 10326
+White firelighter -- 10327
+Charge dragonstone jewellery scroll -- 20238
+Purple sweets -- 10483
