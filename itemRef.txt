@@ -177,31 +177,38 @@ Adamant helm (h2) -- 10298
 Adamant helm (h3) -- 10300
 Adamant helm (h4) -- 10302
 Adamant helm (h5) -- 10304
+Adamant platebody (h1) -- 23392
+Adamant platebody (h2) -- 23395
+Adamant platebody (h3) -- 23398
+Adamant platebody (h4) -- 23401
+Adamant platebody (h5) -- 23404
 Adamant shield (h1) -- 7334
 Adamant shield (h2) -- 7340
 Adamant shield (h3) -- 7346
 Adamant shield (h4) -- 7352
 Adamant shield (h5) -- 7358
-Red headband -- 2645
-Black headband -- 2647
-Brown headband -- 2649
-White headband -- 12299
-Blue headband -- 12301
-Gold headband -- 12303
-Pink headband -- 12305
-Green headband -- 12307
-Red boater -- 7319
-Black boater -- 7327
-Orange boater -- 7321
-White boater -- 12313
-Blue boater -- 7325
-Purple boater -- 12311
-Pink boater -- 12309
-Green boater -- 7323
 Green d'hide body (t) -- 7372
 Green d'hide chaps (t) -- 7380
 Green d'hide body (g) -- 7370
 Green d'hide chaps (g) -- 7378
+Guthix cloak -- 10448
+Guthix mitre -- 10454
+Saradomin cloak -- 10446
+Saradomin mitre -- 10452
+Zamorak cloak -- 10450
+Zamorak mitre -- 10456
+Ancient cloak -- 12197
+Ancient mitre -- 12203
+Ancient crozier -- 12199
+Ancient stole -- 12201
+Bandos cloak -- 12273
+Bandos mitre -- 12271
+Bandos crozier -- 12275
+Bandos stole -- 12269
+Armadyl cloak -- 12261
+Armadyl mitre -- 12259
+Armadyl crozier -- 12263
+Armadyl stole -- 12257
 Black elegant shirt -- 10400
 Black elegant legs -- 10402
 White elegant blouse -- 10420
@@ -218,30 +225,28 @@ Purple elegant shirt -- 10416
 Purple elegant legs -- 10418
 Purple elegant blouse -- 10436
 Purple elegant skirt -- 10438
-Guthix cloak -- 10448
-Saradomin cloak -- 10446
-Zamorak cloak -- 10450
-Ancient cloak -- 12197
-Bandos cloak -- 12273
-Armadyl cloak -- 12261
-Guthix mitre -- 10454
-Saradomin mitre -- 10452
-Zamorak mitre -- 10456
-Ancient mitre -- 12203
-Bandos mitre -- 12271
-Armadyl mitre -- 12259
-Ancient crozier -- 12199
-Armadyl crozier -- 12263
-Bandos crozier -- 12275
-Ancient stole -- 12201
-Armadyl stole -- 12257
-Bandos stole -- 12269
+Red headband -- 2645
+Black headband -- 2647
+Brown headband -- 2649
+White headband -- 12299
+Blue headband -- 12301
+Gold headband -- 12303
+Pink headband -- 12305
+Green headband -- 12307
+Red boater -- 7319
+Black boater -- 7327
+Orange boater -- 7321
+White boater -- 12313
+Blue boater -- 7325
+Purple boater -- 12311
+Pink boater -- 12309
+Green boater -- 7323
 Ranger boots -- 2577
 Wizard boots -- 2579
+Climbing boots (g) -- 23413
 Holy sandals -- 12598
+Spiked manacles -- 23389
 Strength amulet (t) -- 10364
-Adamant cane -- 12377
-Gnomish firelighter -- 20275
 Crier hat -- 12319
 Crier bell -- 20243
 Crier coat -- 20240
@@ -249,6 +254,8 @@ Cat mask -- 12361
 Penguin mask -- 12428
 White unicorn mask -- 20269
 Black unicorn mask -- 20266
+Wolf mask -- 23407
+Wolf cloak -- 23410
 Leprechaun hat -- 12359
 Black leprechaun hat -- 20246
 Arceuus banner -- 20251
@@ -256,17 +263,10 @@ Hosidius banner -- 20254
 Lovakengj banner -- 20257
 Piscarilius banner -- 20260
 Shayzien banner -- 20263
-Adamant platebody (h1) -- 23392
-Adamant platebody (h2) -- 23395
-Adamant platebody (h3) -- 23398
-Adamant platebody (h4) -- 23401
-Adamant platebody (h5) -- 23404
-Spiked manacles -- 23389
-Climbing boots (g) -- 23413
-Wolf cloak -- 23410
-Wolf mask -- 23407
-Yew comp bow -- 10282
+Gnomish firelighter -- 20275
+Adamant cane -- 12377
 Cabbage round shield -- 20272
+Yew comp bow -- 10282
 
 
 *******Hard Clues*******
