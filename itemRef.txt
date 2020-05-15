@@ -130,13 +130,13 @@ Imp mask -- 12249
 Goblin mask -- 12251
 Black cane -- 12375
 Amulet of magic (t) -- 10366
+Amulet of power (t) -- 23354
 Black pickaxe -- 12297
 Wooden shield (g) -- 20166
 Golden chef's hat -- 20205
 Golden apron -- 20208
 Monk's robe top (g) -- 20199
 Monk's robe (g) -- 20202
-Large spade -- 20164
 Cape of skulls -- 23351
 Rain bow -- 23357
 Ham joint -- 23360
@@ -468,13 +468,13 @@ Monocle -- 12353
 Top hat -- 12432
 Sagacious spectacles -- 12337
 Briefcase -- 12335
+Katana -- 12357
 Dragon cane -- 12373
 Royal crown -- 12397
 Royal gown top -- 12393
 Royal gown bottom -- 12395
 Royal sceptre -- 12439
 Ring of nature -- 20005
-Heavy casket -- 19941
 Gilded scimitar -- 12389
 Gilded boots -- 12391
 Gilded full helm -- 3486
