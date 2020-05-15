@@ -1,0 +1,18 @@
+let bClues = {
+  runeScimitarOrnamentKit_guthix: 23321,
+  runeScimitarOrnamentKit_saradomin: 23324,
+  runeScimitarOrnamentKit_zamorak: 23327,
+  bearFeet: 23291,
+  demonFeet: 23294,
+  frogSlippers: 23288,
+  moleSlippers: 23285,
+  jesterCape: 23297,
+  monksRobeTop_t: 23303,
+  monksRobe_t: 23306,
+  sandwichLadyHat: 23312,
+  sandwichLadyTop: 23315,
+  sandwichLadyBottom: 23318,
+  amuletOfDefense_t: 23309,
+  shoulderParrot: 23300,
+  blackPickaxe: 12297,
+  }
