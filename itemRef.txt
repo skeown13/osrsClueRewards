@@ -1,20 +1,20 @@
 *******Beginner Clues*******
-Rune scimitar ornament kit (guthix) -- 23321
-Rune scimitar ornament kit (saradomin) -- 23324
-Rune scimitar ornament kit (zamorak) -- 23327
-Bear feet -- 23291
-Demon feet -- 23294
-Frog slippers -- 23288
-Mole slippers -- 23285
-Jester cape -- 23297
-Monk's robe top (t) -- 23303
-Monk's robe (t) -- 23306
-Sandwich lady hat -- 23312
-Sandwich lady top -- 23315
-Sandwich lady bottom -- 23318
-Amulet of defense (t) -- 23309
-Shoulder parrot -- 23300
-Black pickaxe -- 12297
+Rune scimitar ornament kit (guthix)
+Rune scimitar ornament kit (saradomin)
+Rune scimitar ornament kit (zamorak)
+Bear feet
+Demon feet
+Frog slippers
+Mole slippers
+Jester cape
+Monk's robe top (t)
+Monk's robe (t)
+Sandwich lady hat
+Sandwich lady top
+Sandwich lady bottom
+Amulet of defense (t)
+Shoulder parrot
+Black pickaxe
 
 
 *******Easy Clues*******
