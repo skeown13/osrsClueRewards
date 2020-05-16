@@ -2665,27 +2665,27 @@ let sharedClues = {
 
 let milestones = {
   explore: {
-    item_id:,
+    item_id: "placeholder",
     count: 0,
-  } "placeholder",
+  },
   largeSpade: {
-    item_id:,
+    item_id: 20164,
     count: 0,
-  } 20164,
+  },
   cluelessScroll: {
-    item_id:,
+    item_id: 20249,
     count: 0,
-  } 20249,
+  },
   uriTransform: {
-    item_id:,
+    item_id: "placeholder",
     count: 0,
-  } "placeholder",
+  },
   heavyCasket: {
-    item_id:,
+    item_id: 19941,
     count: 0,
-  } 19941,
+  },
   scrollSack: {
-    item_id:,
+    item_id: 22675,
     count: 0,
-  } 22675,
+  },
 }
