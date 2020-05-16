@@ -733,43 +733,43 @@ let mediumClues = {
     item_id: 7358,
     count: 0,
   },
-  GreenDhideBody_t: {
+  greenDhideBody_t: {
     item_id: 7372,
     count: 0,
   },
-  GreenDhideChaps_t: {
+  greenDhideChaps_t: {
     item_id: 7380,
     count: 0,
   },
-  GreenDhideBody_g: {
+  greenDhideBody_g: {
     item_id: 7370,
     count: 0,
   },
-  GreenDhideChaps_g: {
+  greenDhideChaps_g: {
     item_id: 7378,
     count: 0,
   },
-  GuthixCloak: {
+  guthixCloak: {
     item_id: 10448,
     count: 0,
   },
-  GuthixMitre: {
+  guthixMitre: {
     item_id: 10454,
     count: 0,
   },
-  SaradominCloak: {
+  saradominCloak: {
     item_id: 10446,
     count: 0,
   },
-  SaradominMitre: {
+  saradominMitre: {
     item_id: 10452,
     count: 0,
   },
-  ZamorakCloak: {
+  zamorakCloak: {
     item_id: 10450,
     count: 0,
   },
-  ZamorakMitre: {
+  zamorakMitre: {
     item_id: 10456,
     count: 0,
   },
@@ -789,19 +789,19 @@ let mediumClues = {
     item_id: 12201,
     count: 0,
   },
-  BandosCloak: {
+  bandosCloak: {
     item_id: 12273,
     count: 0,
   },
-  BandosMitre: {
+  bandosMitre: {
     item_id: 12271,
     count: 0,
   },
-  BandosCrozier: {
+  bandosCrozier: {
     item_id: 12275,
     count: 0,
   },
-  BandosStole: {
+  bandosStole: {
     item_id: 12269,
     count: 0,
   },
@@ -821,199 +821,199 @@ let mediumClues = {
     item_id: 12257,
     count: 0,
   },
-  BlackElegantShirt: {
+  blackElegantShirt: {
     item_id: 10400,
     count: 0,
   },
-  BlackElegantLegs: {
+  blackElegantLegs: {
     item_id: 10402,
     count: 0,
   },
-  WhiteElegantBlouse: {
+  whiteElegantBlouse: {
     item_id: 10420,
     count: 0,
   },
-  WhiteElegantSkirt: {
+  whiteElegantSkirt: {
     item_id: 10422,
     count: 0,
   },
-  GoldElegantShirt: {
+  goldElegantShirt: {
     item_id: 12347,
     count: 0,
   },
-  GoldElegantLegs: {
+  goldElegantLegs: {
     item_id: 12349,
     count: 0,
   },
-  GoldElegantBlouse: {
+  goldElegantBlouse: {
     item_id: 12343,
     count: 0,
   },
-  GoldElegantSkirt: {
+  goldElegantSkirt: {
     item_id: 12345,
     count: 0,
   },
-  PinkElegantShirt: {
+  pinkElegantShirt: {
     item_id: 12315,
     count: 0,
   },
-  PinkElegantLegs: {
+  pinkElegantLegs: {
     item_id: 12317,
     count: 0,
   },
-  PinkElegantBlouse: {
+  pinkElegantBlouse: {
     item_id: 12339,
     count: 0,
   },
-  PinkElegantSkirt: {
+  pinkElegantSkirt: {
     item_id: 12341,
     count: 0,
   },
-  PurpleElegantShirt: {
+  purpleElegantShirt: {
     item_id: 10416,
     count: 0,
   },
-  PurpleElegantLegs: {
+  purpleElegantLegs: {
     item_id: 10418,
     count: 0,
   },
-  PurpleElegantBlouse: {
+  purpleElegantBlouse: {
     item_id: 10436,
     count: 0,
   },
-  PurpleElegantSkirt: {
+  purpleElegantSkirt: {
     item_id: 10438,
     count: 0,
   },
-  RedHeadband: {
+  redHeadband: {
     item_id: 2645,
     count: 0,
   },
-  BlackHeadband: {
+  blackHeadband: {
     item_id: 2647,
     count: 0,
   },
-  BrownHeadband: {
+  brownHeadband: {
     item_id: 2649,
     count: 0,
   },
-  WhiteHeadband: {
+  whiteHeadband: {
     item_id: 12299,
     count: 0,
   },
-  BlueHeadband: {
+  blueHeadband: {
     item_id: 12301,
     count: 0,
   },
-  GoldHeadband: {
+  goldHeadband: {
     item_id: 12303,
     count: 0,
   },
-  PinkHeadband: {
+  pinkHeadband: {
     item_id: 12305,
     count: 0,
   },
-  GreenHeadband: {
+  greenHeadband: {
     item_id: 12307,
     count: 0,
   },
-  RedBoater: {
+  redBoater: {
     item_id: 7319,
     count: 0,
   },
-  BlackBoater: {
+  blackBoater: {
     item_id: 7327,
     count: 0,
   },
-  OrangeBoater: {
+  orangeBoater: {
     item_id: 7321,
     count: 0,
   },
-  WhiteBoater: {
+  whiteBoater: {
     item_id: 12313,
     count: 0,
   },
-  BlueBoater: {
+  blueBoater: {
     item_id: 7325,
     count: 0,
   },
-  PurpleBoater: {
+  purpleBoater: {
     item_id: 12311,
     count: 0,
   },
-  PinkBoater: {
+  pinkBoater: {
     item_id: 12309,
     count: 0,
   },
-  GreenBoater: {
+  greenBoater: {
     item_id: 7323,
     count: 0,
   },
-  RangerBoots: {
+  rangerBoots: {
     item_id: 2577,
     count: 0,
   },
-  WizardBoots: {
+  wizardBoots: {
     item_id: 2579,
     count: 0,
   },
-  ClimbingBoots_g: {
+  climbingBoots_g: {
     item_id: 23413,
     count: 0,
   },
-  HolySandals: {
+  holySandals: {
     item_id: 12598,
     count: 0,
   },
-  SpikedManacles: {
+  spikedManacles: {
     item_id: 23389,
     count: 0,
   },
-  StrengthAmulet_t: {
+  strengthAmulet_t: {
     item_id: 10364,
     count: 0,
   },
-  CrierHat: {
+  crierHat: {
     item_id: 12319,
     count: 0,
   },
-  CrierBell: {
+  crierBell: {
     item_id: 20243,
     count: 0,
   },
-  CrierCoat: {
+  crierCoat: {
     item_id: 20240,
     count: 0,
   },
-  CatMask: {
+  catMask: {
     item_id: 12361,
     count: 0,
   },
-  PenguinMask: {
+  penguinMask: {
     item_id: 12428,
     count: 0,
   },
-  WhiteUnicornMask: {
+  whiteUnicornMask: {
     item_id: 20269,
     count: 0,
   },
-  BlackUnicornMask: {
+  blackUnicornMask: {
     item_id: 20266,
     count: 0,
   },
-  WolfMask: {
+  wolfMask: {
     item_id: 23407,
     count: 0,
   },
-  WolfCloak: {
+  wolfCloak: {
     item_id: 23410,
     count: 0,
   },
-  LeprechaunHat: {
+  leprechaunHat: {
     item_id: 12359,
     count: 0,
   },
-  BlackLeprechaunHat: {
+  blackLeprechaunHat: {
     item_id: 20246,
     count: 0,
   },
@@ -1021,23 +1021,23 @@ let mediumClues = {
     item_id: 20251,
     count: 0,
   },
-  HosidiusBanner: {
+  hosidiusBanner: {
     item_id: 20254,
     count: 0,
   },
-  LovakengjBanner: {
+  lovakengjBanner: {
     item_id: 20257,
     count: 0,
   },
-  PiscariliusBanner: {
+  piscariliusBanner: {
     item_id: 20260,
     count: 0,
   },
-  ShayzienBanner: {
+  shayzienBanner: {
     item_id: 20263,
     count: 0,
   },
-  GnomishFirelighter: {
+  gnomishFirelighter: {
     item_id: 20275,
     count: 0,
   },
@@ -1045,11 +1045,11 @@ let mediumClues = {
     item_id: 12377,
     count: 0,
   },
-  CabbageRoundShield: {
+  cabbageRoundShield: {
     item_id: 20272,
     count: 0,
   },
-  YewCompBow: {
+  yewCompBow: {
     item_id: 10282,
     count: 0,
   },
