@@ -1,4 +1,4 @@
-let bClues = {
+let beginnerClues = {
   runeScimitarOrnamentKit_guthix: 23321,
   runeScimitarOrnamentKit_saradomin: 23324,
   runeScimitarOrnamentKit_zamorak: 23327,
@@ -17,7 +17,7 @@ let bClues = {
   blackPickaxe: 12297,
 }
 
-let ezClues = {
+let easyClues = {
   bronzeFullHelm_t: 12221,
   bronzePlatebody_t: 12215,
   bronzePlatelegs_t: 12217,
@@ -151,7 +151,7 @@ let ezClues = {
   willowCompBow: 10280,
 }
 
-let medClues = {
+let mediumClues = {
   mithrilFullHelm_t: 12293,
   mithrilPlatebody_t: 12287,
   mithrilPlatelegs_t: 12289,
@@ -269,7 +269,7 @@ let medClues = {
   YewCompBow: 10282,
 }
 
-let hClues = {
+let hardClues = {
   runeDefenderOrnamentKit: 23227,
   dragonBootsOrnamentKit: 22231,
   tzhaar_ket_omOrnamentKit: 23232,
@@ -430,7 +430,7 @@ let hClues = {
   magicCompBow: 10284,
 }
 
-let eClues = {
+let eliteClues = {
   dragonFullHelmOrnamentKit: 12538,
   dragonChainbodyOrnamentKit: 12534,
   dragonLegs_SkirtOrnamentKit: 12536,
@@ -531,7 +531,7 @@ let eClues = {
   giantBoot: 23252,
 }
 
-let mClues = {
+let masterClues = {
   bloodhound: 19730,
   dragonPlatebodyOrnamentKit: 22236,
   dragonKiteshieldOrnamentKit: 22239,
@@ -628,7 +628,7 @@ let mClues = {
   aleOfTheGods: 20056,
 }
 
-let sClues = {
+let sharedClues = {
   guthixPage1: 3835,
   guthixPage2: 3836,
   guthixPage3: 3837,
