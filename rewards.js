@@ -679,3 +679,12 @@ let sharedClues = {
   chargeDragonstoneJewelleryScroll: 20238,
   purpleSweets: 10483,
 }
+
+let milestones = {
+  explore: "placeholder",
+  largeSpade: 20164,
+  cluelessScroll: 20249,
+  uriTransform: "placeholder",
+  heavyCasket: 19941,
+  scrollSack: 22675,
+}
