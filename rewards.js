@@ -151,7 +151,7 @@ let ezClues = {
   willowCompBow: 10280,
 }
 
-let mClues = {
+let medClues = {
   mithrilFullHelm_t: 12293,
   mithrilPlatebody_t: 12287,
   mithrilPlatelegs_t: 12289,
