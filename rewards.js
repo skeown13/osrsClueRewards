@@ -1,690 +1,2691 @@
 let beginnerClues = {
-  runeScimitarOrnamentKit_guthix: 23321,
-  runeScimitarOrnamentKit_saradomin: 23324,
-  runeScimitarOrnamentKit_zamorak: 23327,
-  bearFeet: 23291,
-  demonFeet: 23294,
-  frogSlippers: 23288,
-  moleSlippers: 23285,
-  jesterCape: 23297,
-  monksRobeTop_t: 23303,
-  monksRobe_t: 23306,
-  sandwichLadyHat: 23312,
-  sandwichLadyTop: 23315,
-  sandwichLadyBottom: 23318,
-  amuletOfDefense_t: 23309,
-  shoulderParrot: 23300,
-  blackPickaxe: 12297,
+  runeScimitarOrnamentKit_guthix: {
+    item_id: 23321,
+    count: 0,
+  },
+  runeScimitarOrnamentKit_saradomin: {
+    item_id: 23324,
+    count: 0,
+  },
+  runeScimitarOrnamentKit_zamorak: {
+    item_id: 23327,
+    count: 0,
+  },
+  bearFeet: {
+    item_id: 23291,
+    count: 0,
+  },
+  demonFeet: {
+    item_id: 23294,
+    count: 0,
+  },
+  frogSlippers: {
+    item_id: 23288,
+    count: 0,
+  },
+  moleSlippers: {
+    item_id: 23285,
+    count: 0,
+  },
+  jesterCape: {
+    item_id: 23297,
+    count: 0,
+  },
+  monksRobeTop_t: {
+    item_id: 23303,
+    count: 0,
+  },
+  monksRobe_t: {
+    item_id: 23306,
+    count: 0,
+  },
+  sandwichLadyHat: {
+    item_id: 23312,
+    count: 0,
+  },
+  sandwichLadyTop: {
+    item_id: 23315,
+    count: 0,
+  },
+  sandwichLadyBottom: {
+    item_id: 23318,
+    count: 0,
+  },
+  amuletOfDefense_t: {
+    item_id: 23309,
+    count: 0,
+  },
+  shoulderParrot: {
+    item_id: 23300,
+    count: 0,
+  },
+  blackPickaxe: {
+    item_id: 12297,
+    count: 0,
+  },
 }
 
 let easyClues = {
-  bronzeFullHelm_t: 12221,
-  bronzePlatebody_t: 12215,
-  bronzePlatelegs_t: 12217,
-  bronzePlateskirt_t: 12219,
-  bronzeKiteshield_t: 12223,
-  bronzeFullHelm_g: 12211,
-  bronzePlatebody_g: 12205,
-  bronzePlatelegs_g: 12207,
-  bronzePlateskirt_g: 12209,
-  bronzeKiteshield_g: 12213,
-  ironFullHelm_t: 12231,
-  ironPlatebody_t: 12225,
-  ironPlatelegs_t: 12227,
-  ironPlateskirt_t: 12229,
-  ironKiteshield_t: 12233,
-  ironFullHelm_g: 12241,
-  ironPlatebody_g: 12235,
-  ironPlatelegs_g: 12237,
-  ironPlateskirt_g: 12239,
-  ironKiteshield_g: 12243,
-  steelFullHelm_t: 20193,
-  steelPlatebody_t: 20184,
-  steelPlatelegs_t: 20187,
-  steelPlateskirt_t: 20190,
-  steelKiteshield_t: 20196,
-  steelFullHelm_g: 20178,
-  steelPlatebody_g: 20169,
-  steelPlatelegs_g: 20172,
-  steelPlateskirt_g: 20175,
-  steelKiteshield_g: 20181,
-  blackFullHelm_t: 2587,
-  blackPlatebody_t: 2583,
-  blackPlatelegs_t: 2585,
-  blackPlateskirt_t: 3472,
-  blackKiteshield_t: 2589,
-  blackFullHelm_g: 2595,
-  blackPlatebody_g: 2591,
-  blackPlatelegs_g: 2593,
-  blackPlateskirt_g: 3473,
-  blackKiteshield_g: 2597,
-  blackHelm_h1: 10306,
-  blackHelm_h2: 10308,
-  blackHelm_h3: 10310,
-  blackHelm_h4: 10312,
-  blackHelm_h5: 10314,
-  blackPlatebody_h1: 23366,
-  blackPlatebody_h2: 23369,
-  blackPlatebody_h3: 23372,
-  blackPlatebody_h4: 23375,
-  blackPlatebody_h5: 23378,
-  blackShield_h1: 7332,
-  blackShield_h2: 7338,
-  blackShield_h3: 7344,
-  blackShield_h4: 7350,
-  blackShield_h5: 7356,
-  studdedBody_t: 7364,
-  studdedChaps_t: 7368,
-  studdedBody_g: 7362,
-  studdedChaps_g: 7366,
-  leatherBody_g: 23381,
-  leatherChaps_g: 23384,
-  blueWizardHat_t: 7396,
-  blueWizardRobe_t: 7392,
-  blueSkirt_t: 7388,
-  blueWizardHat_g: 7394,
-  blueWizardRobe_g: 7390,
-  blueSkirt_g: 7386,
-  blackWizardHat_t: 12455,
-  blackWizardRobe_t: 12451,
-  blackSkirt_t: 12447,
-  blackWizardHat_g: 12453,
-  blackWizardRobe_g: 12449,
-  blackSkirt_g: 12445,
-  guthixRobeTop: 10462,
-  guthixRobeLegs: 10466,
-  saradominRobeTop: 10458,
-  saradominRobeLegs: 10464,
-  zamorakRobeTop: 10460,
-  zamorakRobeLegs: 10468,
-  ancientRobeTop: 12193,
-  ancientRobeLegs: 12195,
-  bandosRobeTop: 12265,
-  bandosRobeLegs: 12267,
-  armadylRobeTop: 12253,
-  armadylRobeLegs: 12255,
-  blueElegantShirt: 10408,
-  blueElegantLegs: 10410,
-  blueElegantBlouse: 10428,
-  blueElegantSkirt: 10430,
-  greenElegantShirt: 10412,
-  greenElegantLegs: 10414,
-  greenElegantBlouse: 10432,
-  greenElegantSkirt: 10434,
-  redElegantShirt: 10404,
-  redElegantLegs: 10406,
-  redElegantBlouse: 10424,
-  redElegantSkirt: 10426,
-  blackBeret: 2635,
-  blueBeret: 2633,
-  whiteBeret: 2637,
-  redBeret: 12247,
-  teamCapeI: 20217,
-  teamCapeX: 20214,
-  teamCapeZero: 20211,
-  capeOfSkulls: 23351,
-  bobsRedShirt: 10316,
-  bobsBlueShirt: 10318,
-  bobsGreenShirt: 10320,
-  bobsBlackShirt: 10322,
-  bobsPurpleShirt: 10324,
-  staffOfBobTheCat: 23363,
-  amuletOfMagic_t: 10366,
-  amuletOfPower_t: 23354,
-  highwaymanMask: 2631,
-  beanie: 12245,
-  aPowderedWig: 10392,
-  flaredTrousers: 10394,
-  pantaloons: 10396,
-  sleepingCap: 10398,
-  impMask: 12249,
-  goblinMask: 12251,
-  blackCane: 12375,
-  blackPickaxe: 12297,
-  goldenChefsHat: 20205,
-  goldenApron: 20208,
-  woodenShield_g: 20166,
-  monksRobeTop_g: 20199,
-  monksRobe_g: 20202,
-  ramJoint: 23360,
-  rainBow: 23357,
-  willowCompBow: 10280,
+  bronzeFullHelm_t: {
+    item_id: 12221,
+    count: 0,
+  },
+  bronzePlatebody_t: {
+    item_id: 12215,
+    count: 0,
+  },
+  bronzePlatelegs_t: {
+    item_id: 12217,
+    count: 0,
+  },
+  bronzePlateskirt_t: {
+    item_id: 12219,
+    count: 0,
+  },
+  bronzeKiteshield_t: {
+    item_id: 12223,
+    count: 0,
+  },
+  bronzeFullHelm_g: {
+    item_id: 12211,
+    count: 0,
+  },
+  bronzePlatebody_g: {
+    item_id: 12205,
+    count: 0,
+  },
+  bronzePlatelegs_g: {
+    item_id: 12207,
+    count: 0,
+  },
+  bronzePlateskirt_g: {
+    item_id: 12209,
+    count: 0,
+  },
+  bronzeKiteshield_g: {
+    item_id: 12213,
+    count: 0,
+  },
+  ironFullHelm_t: {
+    item_id: 12231,
+    count: 0,
+  },
+  ironPlatebody_t: {
+    item_id: 12225,
+    count: 0,
+  },
+  ironPlatelegs_t: {
+    item_id: 12227,
+    count: 0,
+  },
+  ironPlateskirt_t: {
+    item_id: 12229,
+    count: 0,
+  },
+  ironKiteshield_t: {
+    item_id: 12233,
+    count: 0,
+  },
+  ironFullHelm_g: {
+    item_id: 12241,
+    count: 0,
+  },
+  ironPlatebody_g: {
+    item_id: 12235,
+    count: 0,
+  },
+  ironPlatelegs_g: {
+    item_id: 12237,
+    count: 0,
+  },
+  ironPlateskirt_g: {
+    item_id: 12239,
+    count: 0,
+  },
+  ironKiteshield_g: {
+    item_id: 12243,
+    count: 0,
+  },
+  steelFullHelm_t: {
+    item_id: 20193,
+    count: 0,
+  },
+  steelPlatebody_t: {
+    item_id: 20184,
+    count: 0,
+  },
+  steelPlatelegs_t: {
+    item_id: 20187,
+    count: 0,
+  },
+  steelPlateskirt_t: {
+    item_id: 20190,
+    count: 0,
+  },
+  steelKiteshield_t: {
+    item_id: 20196,
+    count: 0,
+  },
+  steelFullHelm_g: {
+    item_id: 20178,
+    count: 0,
+  },
+  steelPlatebody_g: {
+    item_id: 20169,
+    count: 0,
+  },
+  steelPlatelegs_g: {
+    item_id: 20172,
+    count: 0,
+  },
+  steelPlateskirt_g: {
+    item_id: 20175,
+    count: 0,
+  },
+  steelKiteshield_g: {
+    item_id: 20181,
+    count: 0,
+  },
+  blackFullHelm_t: {
+    item_id: 2587,
+    count: 0,
+  },
+  blackPlatebody_t: {
+    item_id: 2583,
+    count: 0,
+  },
+  blackPlatelegs_t: {
+    item_id: 2585,
+    count: 0,
+  },
+  blackPlateskirt_t: {
+    item_id: 3472,
+    count: 0,
+  },
+  blackKiteshield_t: {
+    item_id: 2589,
+    count: 0,
+  },
+  blackFullHelm_g: {
+    item_id: 2595,
+    count: 0,
+  },
+  blackPlatebody_g: {
+    item_id: 2591,
+    count: 0,
+  },
+  blackPlatelegs_g: {
+    item_id: 2593,
+    count: 0,
+  },
+  blackPlateskirt_g: {
+    item_id: 3473,
+    count: 0,
+  },
+  blackKiteshield_g: {
+    item_id: 2597,
+    count: 0,
+  },
+  blackHelm_h1: {
+    item_id: 10306,
+    count: 0,
+  },
+  blackHelm_h2: {
+    item_id: 10308,
+    count: 0,
+  },
+  blackHelm_h3: {
+    item_id: 10310,
+    count: 0,
+  },
+  blackHelm_h4: {
+    item_id: 10312,
+    count: 0,
+  },
+  blackHelm_h5: {
+    item_id: 10314,
+    count: 0,
+  },
+  blackPlatebody_h1: {
+    item_id: 23366,
+    count: 0,
+  },
+  blackPlatebody_h2: {
+    item_id: 23369,
+    count: 0,
+  },
+  blackPlatebody_h3: {
+    item_id: 23372,
+    count: 0,
+  },
+  blackPlatebody_h4: {
+    item_id: 23375,
+    count: 0,
+  },
+  blackPlatebody_h5: {
+    item_id: 23378,
+    count: 0,
+  },
+  blackShield_h1: {
+    item_id: 7332,
+    count: 0,
+  },
+  blackShield_h2: {
+    item_id: 7338,
+    count: 0,
+  },
+  blackShield_h3: {
+    item_id: 7344,
+    count: 0,
+  },
+  blackShield_h4: {
+    item_id: 7350,
+    count: 0,
+  },
+  blackShield_h5: {
+    item_id: 7356,
+    count: 0,
+  },
+  studdedBody_t: {
+    item_id: 7364,
+    count: 0,
+  },
+  studdedChaps_t: {
+    item_id: 7368,
+    count: 0,
+  },
+  studdedBody_g: {
+    item_id: 7362,
+    count: 0,
+  },
+  studdedChaps_g: {
+    item_id: 7366,
+    count: 0,
+  },
+  leatherBody_g: {
+    item_id: 23381,
+    count: 0,
+  },
+  leatherChaps_g: {
+    item_id: 23384,
+    count: 0,
+  },
+  blueWizardHat_t: {
+    item_id: 7396,
+    count: 0,
+  },
+  blueWizardRobe_t: {
+    item_id: 7392,
+    count: 0,
+  },
+  blueSkirt_t: {
+    item_id: 7388,
+    count: 0,
+  },
+  blueWizardHat_g: {
+    item_id: 7394,
+    count: 0,
+  },
+  blueWizardRobe_g: {
+    item_id: 7390,
+    count: 0,
+  },
+  blueSkirt_g: {
+    item_id: 7386,
+    count: 0,
+  },
+  blackWizardHat_t: {
+    item_id: 12455,
+    count: 0,
+  },
+  blackWizardRobe_t: {
+    item_id: 12451,
+    count: 0,
+  },
+  blackSkirt_t: {
+    item_id: 12447,
+    count: 0,
+  },
+  blackWizardHat_g: {
+    item_id: 12453,
+    count: 0,
+  },
+  blackWizardRobe_g: {
+    item_id: 12449,
+    count: 0,
+  },
+  blackSkirt_g: {
+    item_id: 12445,
+    count: 0,
+  },
+  guthixRobeTop: {
+    item_id: 10462,
+    count: 0,
+  },
+  guthixRobeLegs: {
+    item_id: 10466,
+    count: 0,
+  },
+  saradominRobeTop: {
+    item_id: 10458,
+    count: 0,
+  },
+  saradominRobeLegs: {
+    item_id: 10464,
+    count: 0,
+  },
+  zamorakRobeTop: {
+    item_id: 10460,
+    count: 0,
+  },
+  zamorakRobeLegs: {
+    item_id: 10468,
+    count: 0,
+  },
+  ancientRobeTop: {
+    item_id: 12193,
+    count: 0,
+  },
+  ancientRobeLegs: {
+    item_id: 12195,
+    count: 0,
+  },
+  bandosRobeTop: {
+    item_id: 12265,
+    count: 0,
+  },
+  bandosRobeLegs: {
+    item_id: 12267,
+    count: 0,
+  },
+  armadylRobeTop: {
+    item_id: 12253,
+    count: 0,
+  },
+  armadylRobeLegs: {
+    item_id: 12255,
+    count: 0,
+  },
+  blueElegantShirt: {
+    item_id: 10408,
+    count: 0,
+  },
+  blueElegantLegs: {
+    item_id: 10410,
+    count: 0,
+  },
+  blueElegantBlouse: {
+    item_id: 10428,
+    count: 0,
+  },
+  blueElegantSkirt: {
+    item_id: 10430,
+    count: 0,
+  },
+  greenElegantShirt: {
+    item_id: 10412,
+    count: 0,
+  },
+  greenElegantLegs: {
+    item_id: 10414,
+    count: 0,
+  },
+  greenElegantBlouse: {
+    item_id: 10432,
+    count: 0,
+  },
+  greenElegantSkirt: {
+    item_id: 10434,
+    count: 0,
+  },
+  redElegantShirt: {
+    item_id: 10404,
+    count: 0,
+  },
+  redElegantLegs: {
+    item_id: 10406,
+    count: 0,
+  },
+  redElegantBlouse: {
+    item_id: 10424,
+    count: 0,
+  },
+  redElegantSkirt: {
+    item_id: 10426,
+    count: 0,
+  },
+  blackBeret: {
+    item_id: 2635,
+    count: 0,
+  },
+  blueBeret: {
+    item_id: 2633,
+    count: 0,
+  },
+  whiteBeret: {
+    item_id: 2637,
+    count: 0,
+  },
+  redBeret: {
+    item_id: 12247,
+    count: 0,
+  },
+  teamCapeI: {
+    item_id: 20217,
+    count: 0,
+  },
+  teamCapeX: {
+    item_id: 20214,
+    count: 0,
+  },
+  teamCapeZero: {
+    item_id: 20211,
+    count: 0,
+  },
+  capeOfSkulls: {
+    item_id: 23351,
+    count: 0,
+  },
+  bobsRedShirt: {
+    item_id: 10316,
+    count: 0,
+  },
+  bobsBlueShirt: {
+    item_id: 10318,
+    count: 0,
+  },
+  bobsGreenShirt: {
+    item_id: 10320,
+    count: 0,
+  },
+  bobsBlackShirt: {
+    item_id: 10322,
+    count: 0,
+  },
+  bobsPurpleShirt: {
+    item_id: 10324,
+    count: 0,
+  },
+  staffOfBobTheCat: {
+    item_id: 23363,
+    count: 0,
+  },
+  amuletOfMagic_t: {
+    item_id: 10366,
+    count: 0,
+  },
+  amuletOfPower_t: {
+    item_id: 23354,
+    count: 0,
+  },
+  highwaymanMask: {
+    item_id: 2631,
+    count: 0,
+  },
+  beanie: {
+    item_id: 12245,
+    count: 0,
+  },
+  aPowderedWig: {
+    item_id: 10392,
+    count: 0,
+  },
+  flaredTrousers: {
+    item_id: 10394,
+    count: 0,
+  },
+  pantaloons: {
+    item_id: 10396,
+    count: 0,
+  },
+  sleepingCap: {
+    item_id: 10398,
+    count: 0,
+  },
+  impMask: {
+    item_id: 12249,
+    count: 0,
+  },
+  goblinMask: {
+    item_id: 12251,
+    count: 0,
+  },
+  blackCane: {
+    item_id: 12375,
+    count: 0,
+  },
+  blackPickaxe: {
+    item_id: 12297,
+    count: 0,
+  },
+  goldenChefsHat: {
+    item_id: 20205,
+    count: 0,
+  },
+  goldenApron: {
+    item_id: 20208,
+    count: 0,
+  },
+  woodenShield_g: {
+    item_id: 20166,
+    count: 0,
+  },
+  monksRobeTop_g: {
+    item_id: 20199,
+    count: 0,
+  },
+  monksRobe_g: {
+    item_id: 20202,
+    count: 0,
+  },
+  ramJoint: {
+    item_id: 23360,
+    count: 0,
+  },
+  rainBow: {
+    item_id: 23357,
+    count: 0,
+  },
+  willowCompBow: {
+    item_id: 10280,
+    count: 0,
+  },
 }
 
 let mediumClues = {
-  mithrilFullHelm_t: 12293,
-  mithrilPlatebody_t: 12287,
-  mithrilPlatelegs_t: 12289,
-  mithrilPlateskirt_t: 12295,
-  mithrilKiteshield_t: 12291,
-  mithrilFullHelm_g: 12283,
-  mithrilPlatebody_g: 12277,
-  mithrilPlatelegs_g: 12279,
-  mithrilPlateskirt_g: 12285,
-  mithrilKiteshield_g: 12281,
-  adamantFullHelm_t: 2605,
-  adamantPlatebody_t: 2599,
-  adamantPlatelegs_t: 2601,
-  adamantPlateskirt_t: 3474,
-  adamantKiteshield_t: 2603,
-  adamantFullHelm_g: 2613,
-  adamantPlatebody_g: 2607,
-  adamantPlatelegs_g: 2609,
-  adamantPlateskirt_g: 3475,
-  adamantKiteshield_g: 2611,
-  adamantHelm_h1: 10296,
-  adamantHelm_h2: 10298,
-  adamantHelm_h3: 10300,
-  adamantHelm_h4: 10302,
-  adamantHelm_h5: 10304,
-  adamantPlatebody_h1: 23392,
-  adamantPlatebody_h2: 23395,
-  adamantPlatebody_h3: 23398,
-  adamantPlatebody_h4: 23401,
-  adamantPlatebody_h5: 23404,
-  adamantShield_h1: 7334,
-  adamantShield_h2: 7340,
-  adamantShield_h3: 7346,
-  adamantShield_h4: 7352,
-  adamantShield_h5: 7358,
-  GreenDhideBody_t: 7372,
-  GreenDhideChaps_t: 7380,
-  GreenDhideBody_g: 7370,
-  GreenDhideChaps_g: 7378,
-  GuthixCloak: 10448,
-  GuthixMitre: 10454,
-  SaradominCloak: 10446,
-  SaradominMitre: 10452,
-  ZamorakCloak: 10450,
-  ZamorakMitre: 10456,
-  ancientCloak: 12197,
-  ancientMitre: 12203,
-  ancientCrozier: 12199,
-  ancientStole: 12201,
-  BandosCloak: 12273,
-  BandosMitre: 12271,
-  BandosCrozier: 12275,
-  BandosStole: 12269,
-  armadylCloak: 12261,
-  armadylMitre: 12259,
-  armadylCrozier: 12263,
-  armadylStole: 12257,
-  BlackElegantShirt: 10400,
-  BlackElegantLegs: 10402,
-  WhiteElegantBlouse: 10420,
-  WhiteElegantSkirt: 10422,
-  GoldElegantShirt: 12347,
-  GoldElegantLegs: 12349,
-  GoldElegantBlouse: 12343,
-  GoldElegantSkirt: 12345,
-  PinkElegantShirt: 12315,
-  PinkElegantLegs: 12317,
-  PinkElegantBlouse: 12339,
-  PinkElegantSkirt: 12341,
-  PurpleElegantShirt: 10416,
-  PurpleElegantLegs: 10418,
-  PurpleElegantBlouse: 10436,
-  PurpleElegantSkirt: 10438,
-  RedHeadband: 2645,
-  BlackHeadband: 2647,
-  BrownHeadband: 2649,
-  WhiteHeadband: 12299,
-  BlueHeadband: 12301,
-  GoldHeadband: 12303,
-  PinkHeadband: 12305,
-  GreenHeadband: 12307,
-  RedBoater: 7319,
-  BlackBoater: 7327,
-  OrangeBoater: 7321,
-  WhiteBoater: 12313,
-  BlueBoater: 7325,
-  PurpleBoater: 12311,
-  PinkBoater: 12309,
-  GreenBoater: 7323,
-  RangerBoots: 2577,
-  WizardBoots: 2579,
-  ClimbingBoots_g: 23413,
-  HolySandals: 12598,
-  SpikedManacles: 23389,
-  StrengthAmulet_t: 10364,
-  CrierHat: 12319,
-  CrierBell: 20243,
-  CrierCoat: 20240,
-  CatMask: 12361,
-  PenguinMask: 12428,
-  WhiteUnicornMask: 20269,
-  BlackUnicornMask: 20266,
-  WolfMask: 23407,
-  WolfCloak: 23410,
-  LeprechaunHat: 12359,
-  BlackLeprechaunHat: 20246,
-  arceuusBanner: 20251,
-  HosidiusBanner: 20254,
-  LovakengjBanner: 20257,
-  PiscariliusBanner: 20260,
-  ShayzienBanner: 20263,
-  GnomishFirelighter: 20275,
-  adamantCane: 12377,
-  CabbageRoundShield: 20272,
-  YewCompBow: 10282,
+  mithrilFullHelm_t: {
+    item_id:,
+    count: 0,
+  } 12293,
+  mithrilPlatebody_t: {
+    item_id:,
+    count: 0,
+  } 12287,
+  mithrilPlatelegs_t: {
+    item_id:,
+    count: 0,
+  } 12289,
+  mithrilPlateskirt_t: {
+    item_id:,
+    count: 0,
+  } 12295,
+  mithrilKiteshield_t: {
+    item_id:,
+    count: 0,
+  } 12291,
+  mithrilFullHelm_g: {
+    item_id:,
+    count: 0,
+  } 12283,
+  mithrilPlatebody_g: {
+    item_id:,
+    count: 0,
+  } 12277,
+  mithrilPlatelegs_g: {
+    item_id:,
+    count: 0,
+  } 12279,
+  mithrilPlateskirt_g: {
+    item_id:,
+    count: 0,
+  } 12285,
+  mithrilKiteshield_g: {
+    item_id:,
+    count: 0,
+  } 12281,
+  adamantFullHelm_t: {
+    item_id:,
+    count: 0,
+  } 2605,
+  adamantPlatebody_t: {
+    item_id:,
+    count: 0,
+  } 2599,
+  adamantPlatelegs_t: {
+    item_id:,
+    count: 0,
+  } 2601,
+  adamantPlateskirt_t: {
+    item_id:,
+    count: 0,
+  } 3474,
+  adamantKiteshield_t: {
+    item_id:,
+    count: 0,
+  } 2603,
+  adamantFullHelm_g: {
+    item_id:,
+    count: 0,
+  } 2613,
+  adamantPlatebody_g: {
+    item_id:,
+    count: 0,
+  } 2607,
+  adamantPlatelegs_g: {
+    item_id:,
+    count: 0,
+  } 2609,
+  adamantPlateskirt_g: {
+    item_id:,
+    count: 0,
+  } 3475,
+  adamantKiteshield_g: {
+    item_id:,
+    count: 0,
+  } 2611,
+  adamantHelm_h1: {
+    item_id:,
+    count: 0,
+  } 10296,
+  adamantHelm_h2: {
+    item_id:,
+    count: 0,
+  } 10298,
+  adamantHelm_h3: {
+    item_id:,
+    count: 0,
+  } 10300,
+  adamantHelm_h4: {
+    item_id:,
+    count: 0,
+  } 10302,
+  adamantHelm_h5: {
+    item_id:,
+    count: 0,
+  } 10304,
+  adamantPlatebody_h1: {
+    item_id:,
+    count: 0,
+  } 23392,
+  adamantPlatebody_h2: {
+    item_id:,
+    count: 0,
+  } 23395,
+  adamantPlatebody_h3: {
+    item_id:,
+    count: 0,
+  } 23398,
+  adamantPlatebody_h4: {
+    item_id:,
+    count: 0,
+  } 23401,
+  adamantPlatebody_h5: {
+    item_id:,
+    count: 0,
+  } 23404,
+  adamantShield_h1: {
+    item_id:,
+    count: 0,
+  } 7334,
+  adamantShield_h2: {
+    item_id:,
+    count: 0,
+  } 7340,
+  adamantShield_h3: {
+    item_id:,
+    count: 0,
+  } 7346,
+  adamantShield_h4: {
+    item_id:,
+    count: 0,
+  } 7352,
+  adamantShield_h5: {
+    item_id:,
+    count: 0,
+  } 7358,
+  GreenDhideBody_t: {
+    item_id:,
+    count: 0,
+  } 7372,
+  GreenDhideChaps_t: {
+    item_id:,
+    count: 0,
+  } 7380,
+  GreenDhideBody_g: {
+    item_id:,
+    count: 0,
+  } 7370,
+  GreenDhideChaps_g: {
+    item_id:,
+    count: 0,
+  } 7378,
+  GuthixCloak: {
+    item_id:,
+    count: 0,
+  } 10448,
+  GuthixMitre: {
+    item_id:,
+    count: 0,
+  } 10454,
+  SaradominCloak: {
+    item_id:,
+    count: 0,
+  } 10446,
+  SaradominMitre: {
+    item_id:,
+    count: 0,
+  } 10452,
+  ZamorakCloak: {
+    item_id:,
+    count: 0,
+  } 10450,
+  ZamorakMitre: {
+    item_id:,
+    count: 0,
+  } 10456,
+  ancientCloak: {
+    item_id:,
+    count: 0,
+  } 12197,
+  ancientMitre: {
+    item_id:,
+    count: 0,
+  } 12203,
+  ancientCrozier: {
+    item_id:,
+    count: 0,
+  } 12199,
+  ancientStole: {
+    item_id:,
+    count: 0,
+  } 12201,
+  BandosCloak: {
+    item_id:,
+    count: 0,
+  } 12273,
+  BandosMitre: {
+    item_id:,
+    count: 0,
+  } 12271,
+  BandosCrozier: {
+    item_id:,
+    count: 0,
+  } 12275,
+  BandosStole: {
+    item_id:,
+    count: 0,
+  } 12269,
+  armadylCloak: {
+    item_id:,
+    count: 0,
+  } 12261,
+  armadylMitre: {
+    item_id:,
+    count: 0,
+  } 12259,
+  armadylCrozier: {
+    item_id:,
+    count: 0,
+  } 12263,
+  armadylStole: {
+    item_id:,
+    count: 0,
+  } 12257,
+  BlackElegantShirt: {
+    item_id:,
+    count: 0,
+  } 10400,
+  BlackElegantLegs: {
+    item_id:,
+    count: 0,
+  } 10402,
+  WhiteElegantBlouse: {
+    item_id:,
+    count: 0,
+  } 10420,
+  WhiteElegantSkirt: {
+    item_id:,
+    count: 0,
+  } 10422,
+  GoldElegantShirt: {
+    item_id:,
+    count: 0,
+  } 12347,
+  GoldElegantLegs: {
+    item_id:,
+    count: 0,
+  } 12349,
+  GoldElegantBlouse: {
+    item_id:,
+    count: 0,
+  } 12343,
+  GoldElegantSkirt: {
+    item_id:,
+    count: 0,
+  } 12345,
+  PinkElegantShirt: {
+    item_id:,
+    count: 0,
+  } 12315,
+  PinkElegantLegs: {
+    item_id:,
+    count: 0,
+  } 12317,
+  PinkElegantBlouse: {
+    item_id:,
+    count: 0,
+  } 12339,
+  PinkElegantSkirt: {
+    item_id:,
+    count: 0,
+  } 12341,
+  PurpleElegantShirt: {
+    item_id:,
+    count: 0,
+  } 10416,
+  PurpleElegantLegs: {
+    item_id:,
+    count: 0,
+  } 10418,
+  PurpleElegantBlouse: {
+    item_id:,
+    count: 0,
+  } 10436,
+  PurpleElegantSkirt: {
+    item_id:,
+    count: 0,
+  } 10438,
+  RedHeadband: {
+    item_id:,
+    count: 0,
+  } 2645,
+  BlackHeadband: {
+    item_id:,
+    count: 0,
+  } 2647,
+  BrownHeadband: {
+    item_id:,
+    count: 0,
+  } 2649,
+  WhiteHeadband: {
+    item_id:,
+    count: 0,
+  } 12299,
+  BlueHeadband: {
+    item_id:,
+    count: 0,
+  } 12301,
+  GoldHeadband: {
+    item_id:,
+    count: 0,
+  } 12303,
+  PinkHeadband: {
+    item_id:,
+    count: 0,
+  } 12305,
+  GreenHeadband: {
+    item_id:,
+    count: 0,
+  } 12307,
+  RedBoater: {
+    item_id:,
+    count: 0,
+  } 7319,
+  BlackBoater: {
+    item_id:,
+    count: 0,
+  } 7327,
+  OrangeBoater: {
+    item_id:,
+    count: 0,
+  } 7321,
+  WhiteBoater: {
+    item_id:,
+    count: 0,
+  } 12313,
+  BlueBoater: {
+    item_id:,
+    count: 0,
+  } 7325,
+  PurpleBoater: {
+    item_id:,
+    count: 0,
+  } 12311,
+  PinkBoater: {
+    item_id:,
+    count: 0,
+  } 12309,
+  GreenBoater: {
+    item_id:,
+    count: 0,
+  } 7323,
+  RangerBoots: {
+    item_id:,
+    count: 0,
+  } 2577,
+  WizardBoots: {
+    item_id:,
+    count: 0,
+  } 2579,
+  ClimbingBoots_g: {
+    item_id:,
+    count: 0,
+  } 23413,
+  HolySandals: {
+    item_id:,
+    count: 0,
+  } 12598,
+  SpikedManacles: {
+    item_id:,
+    count: 0,
+  } 23389,
+  StrengthAmulet_t: {
+    item_id:,
+    count: 0,
+  } 10364,
+  CrierHat: {
+    item_id:,
+    count: 0,
+  } 12319,
+  CrierBell: {
+    item_id:,
+    count: 0,
+  } 20243,
+  CrierCoat: {
+    item_id:,
+    count: 0,
+  } 20240,
+  CatMask: {
+    item_id:,
+    count: 0,
+  } 12361,
+  PenguinMask: {
+    item_id:,
+    count: 0,
+  } 12428,
+  WhiteUnicornMask: {
+    item_id:,
+    count: 0,
+  } 20269,
+  BlackUnicornMask: {
+    item_id:,
+    count: 0,
+  } 20266,
+  WolfMask: {
+    item_id:,
+    count: 0,
+  } 23407,
+  WolfCloak: {
+    item_id:,
+    count: 0,
+  } 23410,
+  LeprechaunHat: {
+    item_id:,
+    count: 0,
+  } 12359,
+  BlackLeprechaunHat: {
+    item_id:,
+    count: 0,
+  } 20246,
+  arceuusBanner: {
+    item_id:,
+    count: 0,
+  } 20251,
+  HosidiusBanner: {
+    item_id:,
+    count: 0,
+  } 20254,
+  LovakengjBanner: {
+    item_id:,
+    count: 0,
+  } 20257,
+  PiscariliusBanner: {
+    item_id:,
+    count: 0,
+  } 20260,
+  ShayzienBanner: {
+    item_id:,
+    count: 0,
+  } 20263,
+  GnomishFirelighter: {
+    item_id:,
+    count: 0,
+  } 20275,
+  adamantCane: {
+    item_id:,
+    count: 0,
+  } 12377,
+  CabbageRoundShield: {
+    item_id:,
+    count: 0,
+  } 20272,
+  YewCompBow: {
+    item_id:,
+    count: 0,
+  } 10282,
 }
 
 let hardClues = {
-  runeDefenderOrnamentKit: 23227,
-  dragonBootsOrnamentKit: 22231,
-  tzhaar_ket_omOrnamentKit: 23232,
-  berserkerNecklaceOrnamentKit: 23237,
-  runeGullHelm_t: 2627,
-  runePlatebody_t: 2623,
-  runePlatelegs_t: 2625,
-  runePlateskirt_t: 3477,
-  runeKiteshield_t: 2629,
-  runeGullHelm_g: 2619,
-  runePlatebody_g: 2615,
-  runePlatelegs_g: 2617,
-  runePlateskirt_g: 3476,
-  runeKiteshield_g: 2621,
-  runeHelm_h1: 10286,
-  runeHelm_h2: 10288,
-  runeHelm_h3: 10290,
-  runeHelm_h4: 10292,
-  runeHelm_h5: 10294,
-  runePlatebody_h1: 23209,
-  runePlatebody_h2: 23212,
-  runePlatebody_h3: 23215,
-  runePlatebody_h4: 23218,
-  runePlatebody_h5: 23221,
-  runeShield_h1: 7336,
-  runeShield_h2: 7342,
-  runeShield_h3: 7348,
-  runeShield_h4: 7354,
-  runeShield_h5: 7360,
-  blueDhideBody_t: 7376,
-  blueDhideChaps_t: 7384,
-  blueDhideBody_g: 7374,
-  blueDhideChaps_g: 7382,
-  redDhideBody_t: 12331,
-  redDhideChaps_t: 12333,
-  redDhideBody_g: 12327,
-  redDhideChaps_g: 12329,
-  guthixGullHelm: 2673,
-  guthixPlatebody: 2669,
-  guthixPlatelegs: 2671,
-  guthixPlateskirt: 3480,
-  guthixKiteshield: 2675,
-  guthixCoif: 10382,
-  guthixDhideBody: 10378,
-  guthixChaps: 10380,
-  guthixBracers: 10376,
-  guthixDhideBoots: 19927,
-  guthixDhideShield: 23188,
-  guthixCrozier: 10443,
-  guthixStole: 10472,
-  saradominGullHelm: 2665,
-  saradominPlatebody: 2661,
-  saradominPlatelegs: 2663,
-  saradominPlateskirt: 3479,
-  saradominKiteshield: 2667,
-  saradominCoif: 10390,
-  saradominDhideBody: 10386,
-  saradominChaps: 10388,
-  saradominBracers: 10384,
-  saradominDhideBoots: 19933,
-  saradominDhideShield: 23191,
-  saradominCrozier: 10440,
-  saradominStole: 10470,
-  zamorakGullHelm: 2657,
-  zamorakPlatebody: 2653,
-  zamorakPlatelegs: 2655,
-  zamorakPlateskirt: 3478,
-  zamorakKiteshield: 2659,
-  zamorakCoif: 10374,
-  zamorakDhideBody: 10370,
-  zamorakChaps: 10372,
-  zamorakBracers: 10368,
-  zamorakDhideBoots: 19936,
-  zamorakDhideShield: 23194,
-  zamorakCrozier: 10444,
-  zamorakStole: 10474,
-  ancientGullHelm: 12466,
-  ancientPlatebody: 12460,
-  ancientPlatelegs: 12462,
-  ancientPlateskirt: 12464,
-  ancientKiteshield: 12468,
-  ancientCoif: 12496,
-  ancientDhideBody: 12492,
-  ancientChaps: 12494,
-  ancientBracers: 12490,
-  ancientDhideBoots: 19921,
-  ancientDhideShield: 23197,
-  bandosGullHelm: 12486,
-  bandosPlatebody: 12480,
-  bandosPlatelegs: 12482,
-  bandosPlateskirt: 12484,
-  bandosKiteshield: 12488,
-  bandosCoif: 12504,
-  bandosDhideBody: 12500,
-  bandosChaps: 12502,
-  bandosBracers: 12498,
-  bandosDhideBoots: 19924,
-  bandosDhideShield: 23203,
-  armadylGullHelm: 12476,
-  armadylPlatebody: 12470,
-  armadylPlatelegs: 12472,
-  armadylPlateskirt: 12474,
-  armadylKiteshield: 12478,
-  armadylCoif: 12512,
-  armadylDhideBody: 12508,
-  armadylChaps: 12510,
-  armadylBracers: 12506,
-  armadylDhideBoots: 19930,
-  armadylDhideShield: 23200,
-  gildedGullHelm: 3486,
-  gildedPlatebody: 3481,
-  gildedPlatelegs: 3483,
-  gildedPlateskirt: 3485,
-  gildedKiteshield: 3488,
-  gildedMedHelm: 20146,
-  gildedChainbody: 20149,
-  gildedSqShield: 20152,
-  gilded2hSword: 20155,
-  gildedSpear: 20158,
-  gildedHasta: 20161,
-  thirdAgeGullHelmet: 10350,
-  thirdAgePlatebody: 10348,
-  thirdAgePlatelegs: 10346,
-  thirdAgePlateskirt: 23242,
-  thirdAgeKiteshield: 10352,
-  thirdAgeRangeCoif: 10334,
-  thirdAgeRangeTop: 10330,
-  thirdAgeRangeLegs: 10332,
-  thirdAgeVambraces: 10336,
-  thirdAgeMageHat: 10342,
-  thirdAgeRobeTop: 10338,
-  thirdAgeRobe: 10340,
-  thirdAgeAmulet: 10344,
-  enchantedHat: 7400,
-  enchantedTop: 7399,
-  enchantedRobe: 7398,
-  tanCavalier: 2639,
-  darkCavalier: 2641,
-  blackCavalier: 2643,
-  whiteCavalier: 12321,
-  redCavalier: 12323,
-  navyCavalier: 12325,
-  robinHoodHat: 2581,
-  piratesHat: 2651,
-  pithHelmet: 12516,
-  amuletOfGlory_t: 10362,
-  greenDragonMask: 12518,
-  blueDragonMask: 12520,
-  redDragonMask: 12522,
-  blackDragonMask: 12524,
-  zombieHead: 6722,
-  cyclopsHead: 19915,
-  runeCane: 12379,
-  explorerBackpack: 12514,
-  thievingBag: 23224,
-  nunchaku: 19918,
-  dualSai: 23206,
-  magicCompBow: 10284,
+  runeDefenderOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 23227,
+  dragonBootsOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 22231,
+  tzhaar_ket_omOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 23232,
+  berserkerNecklaceOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 23237,
+  runeGullHelm_t: {
+    item_id:,
+    count: 0,
+  } 2627,
+  runePlatebody_t: {
+    item_id:,
+    count: 0,
+  } 2623,
+  runePlatelegs_t: {
+    item_id:,
+    count: 0,
+  } 2625,
+  runePlateskirt_t: {
+    item_id:,
+    count: 0,
+  } 3477,
+  runeKiteshield_t: {
+    item_id:,
+    count: 0,
+  } 2629,
+  runeGullHelm_g: {
+    item_id:,
+    count: 0,
+  } 2619,
+  runePlatebody_g: {
+    item_id:,
+    count: 0,
+  } 2615,
+  runePlatelegs_g: {
+    item_id:,
+    count: 0,
+  } 2617,
+  runePlateskirt_g: {
+    item_id:,
+    count: 0,
+  } 3476,
+  runeKiteshield_g: {
+    item_id:,
+    count: 0,
+  } 2621,
+  runeHelm_h1: {
+    item_id:,
+    count: 0,
+  } 10286,
+  runeHelm_h2: {
+    item_id:,
+    count: 0,
+  } 10288,
+  runeHelm_h3: {
+    item_id:,
+    count: 0,
+  } 10290,
+  runeHelm_h4: {
+    item_id:,
+    count: 0,
+  } 10292,
+  runeHelm_h5: {
+    item_id:,
+    count: 0,
+  } 10294,
+  runePlatebody_h1: {
+    item_id:,
+    count: 0,
+  } 23209,
+  runePlatebody_h2: {
+    item_id:,
+    count: 0,
+  } 23212,
+  runePlatebody_h3: {
+    item_id:,
+    count: 0,
+  } 23215,
+  runePlatebody_h4: {
+    item_id:,
+    count: 0,
+  } 23218,
+  runePlatebody_h5: {
+    item_id:,
+    count: 0,
+  } 23221,
+  runeShield_h1: {
+    item_id:,
+    count: 0,
+  } 7336,
+  runeShield_h2: {
+    item_id:,
+    count: 0,
+  } 7342,
+  runeShield_h3: {
+    item_id:,
+    count: 0,
+  } 7348,
+  runeShield_h4: {
+    item_id:,
+    count: 0,
+  } 7354,
+  runeShield_h5: {
+    item_id:,
+    count: 0,
+  } 7360,
+  blueDhideBody_t: {
+    item_id:,
+    count: 0,
+  } 7376,
+  blueDhideChaps_t: {
+    item_id:,
+    count: 0,
+  } 7384,
+  blueDhideBody_g: {
+    item_id:,
+    count: 0,
+  } 7374,
+  blueDhideChaps_g: {
+    item_id:,
+    count: 0,
+  } 7382,
+  redDhideBody_t: {
+    item_id:,
+    count: 0,
+  } 12331,
+  redDhideChaps_t: {
+    item_id:,
+    count: 0,
+  } 12333,
+  redDhideBody_g: {
+    item_id:,
+    count: 0,
+  } 12327,
+  redDhideChaps_g: {
+    item_id:,
+    count: 0,
+  } 12329,
+  guthixGullHelm: {
+    item_id:,
+    count: 0,
+  } 2673,
+  guthixPlatebody: {
+    item_id:,
+    count: 0,
+  } 2669,
+  guthixPlatelegs: {
+    item_id:,
+    count: 0,
+  } 2671,
+  guthixPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3480,
+  guthixKiteshield: {
+    item_id:,
+    count: 0,
+  } 2675,
+  guthixCoif: {
+    item_id:,
+    count: 0,
+  } 10382,
+  guthixDhideBody: {
+    item_id:,
+    count: 0,
+  } 10378,
+  guthixChaps: {
+    item_id:,
+    count: 0,
+  } 10380,
+  guthixBracers: {
+    item_id:,
+    count: 0,
+  } 10376,
+  guthixDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19927,
+  guthixDhideShield: {
+    item_id:,
+    count: 0,
+  } 23188,
+  guthixCrozier: {
+    item_id:,
+    count: 0,
+  } 10443,
+  guthixStole: {
+    item_id:,
+    count: 0,
+  } 10472,
+  saradominGullHelm: {
+    item_id:,
+    count: 0,
+  } 2665,
+  saradominPlatebody: {
+    item_id:,
+    count: 0,
+  } 2661,
+  saradominPlatelegs: {
+    item_id:,
+    count: 0,
+  } 2663,
+  saradominPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3479,
+  saradominKiteshield: {
+    item_id:,
+    count: 0,
+  } 2667,
+  saradominCoif: {
+    item_id:,
+    count: 0,
+  } 10390,
+  saradominDhideBody: {
+    item_id:,
+    count: 0,
+  } 10386,
+  saradominChaps: {
+    item_id:,
+    count: 0,
+  } 10388,
+  saradominBracers: {
+    item_id:,
+    count: 0,
+  } 10384,
+  saradominDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19933,
+  saradominDhideShield: {
+    item_id:,
+    count: 0,
+  } 23191,
+  saradominCrozier: {
+    item_id:,
+    count: 0,
+  } 10440,
+  saradominStole: {
+    item_id:,
+    count: 0,
+  } 10470,
+  zamorakGullHelm: {
+    item_id:,
+    count: 0,
+  } 2657,
+  zamorakPlatebody: {
+    item_id:,
+    count: 0,
+  } 2653,
+  zamorakPlatelegs: {
+    item_id:,
+    count: 0,
+  } 2655,
+  zamorakPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3478,
+  zamorakKiteshield: {
+    item_id:,
+    count: 0,
+  } 2659,
+  zamorakCoif: {
+    item_id:,
+    count: 0,
+  } 10374,
+  zamorakDhideBody: {
+    item_id:,
+    count: 0,
+  } 10370,
+  zamorakChaps: {
+    item_id:,
+    count: 0,
+  } 10372,
+  zamorakBracers: {
+    item_id:,
+    count: 0,
+  } 10368,
+  zamorakDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19936,
+  zamorakDhideShield: {
+    item_id:,
+    count: 0,
+  } 23194,
+  zamorakCrozier: {
+    item_id:,
+    count: 0,
+  } 10444,
+  zamorakStole: {
+    item_id:,
+    count: 0,
+  } 10474,
+  ancientGullHelm: {
+    item_id:,
+    count: 0,
+  } 12466,
+  ancientPlatebody: {
+    item_id:,
+    count: 0,
+  } 12460,
+  ancientPlatelegs: {
+    item_id:,
+    count: 0,
+  } 12462,
+  ancientPlateskirt: {
+    item_id:,
+    count: 0,
+  } 12464,
+  ancientKiteshield: {
+    item_id:,
+    count: 0,
+  } 12468,
+  ancientCoif: {
+    item_id:,
+    count: 0,
+  } 12496,
+  ancientDhideBody: {
+    item_id:,
+    count: 0,
+  } 12492,
+  ancientChaps: {
+    item_id:,
+    count: 0,
+  } 12494,
+  ancientBracers: {
+    item_id:,
+    count: 0,
+  } 12490,
+  ancientDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19921,
+  ancientDhideShield: {
+    item_id:,
+    count: 0,
+  } 23197,
+  bandosGullHelm: {
+    item_id:,
+    count: 0,
+  } 12486,
+  bandosPlatebody: {
+    item_id:,
+    count: 0,
+  } 12480,
+  bandosPlatelegs: {
+    item_id:,
+    count: 0,
+  } 12482,
+  bandosPlateskirt: {
+    item_id:,
+    count: 0,
+  } 12484,
+  bandosKiteshield: {
+    item_id:,
+    count: 0,
+  } 12488,
+  bandosCoif: {
+    item_id:,
+    count: 0,
+  } 12504,
+  bandosDhideBody: {
+    item_id:,
+    count: 0,
+  } 12500,
+  bandosChaps: {
+    item_id:,
+    count: 0,
+  } 12502,
+  bandosBracers: {
+    item_id:,
+    count: 0,
+  } 12498,
+  bandosDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19924,
+  bandosDhideShield: {
+    item_id:,
+    count: 0,
+  } 23203,
+  armadylGullHelm: {
+    item_id:,
+    count: 0,
+  } 12476,
+  armadylPlatebody: {
+    item_id:,
+    count: 0,
+  } 12470,
+  armadylPlatelegs: {
+    item_id:,
+    count: 0,
+  } 12472,
+  armadylPlateskirt: {
+    item_id:,
+    count: 0,
+  } 12474,
+  armadylKiteshield: {
+    item_id:,
+    count: 0,
+  } 12478,
+  armadylCoif: {
+    item_id:,
+    count: 0,
+  } 12512,
+  armadylDhideBody: {
+    item_id:,
+    count: 0,
+  } 12508,
+  armadylChaps: {
+    item_id:,
+    count: 0,
+  } 12510,
+  armadylBracers: {
+    item_id:,
+    count: 0,
+  } 12506,
+  armadylDhideBoots: {
+    item_id:,
+    count: 0,
+  } 19930,
+  armadylDhideShield: {
+    item_id:,
+    count: 0,
+  } 23200,
+  gildedGullHelm: {
+    item_id:,
+    count: 0,
+  } 3486,
+  gildedPlatebody: {
+    item_id:,
+    count: 0,
+  } 3481,
+  gildedPlatelegs: {
+    item_id:,
+    count: 0,
+  } 3483,
+  gildedPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3485,
+  gildedKiteshield: {
+    item_id:,
+    count: 0,
+  } 3488,
+  gildedMedHelm: {
+    item_id:,
+    count: 0,
+  } 20146,
+  gildedChainbody: {
+    item_id:,
+    count: 0,
+  } 20149,
+  gildedSqShield: {
+    item_id:,
+    count: 0,
+  } 20152,
+  gilded2hSword: {
+    item_id:,
+    count: 0,
+  } 20155,
+  gildedSpear: {
+    item_id:,
+    count: 0,
+  } 20158,
+  gildedHasta: {
+    item_id:,
+    count: 0,
+  } 20161,
+  thirdAgeGullHelmet: {
+    item_id:,
+    count: 0,
+  } 10350,
+  thirdAgePlatebody: {
+    item_id:,
+    count: 0,
+  } 10348,
+  thirdAgePlatelegs: {
+    item_id:,
+    count: 0,
+  } 10346,
+  thirdAgePlateskirt: {
+    item_id:,
+    count: 0,
+  } 23242,
+  thirdAgeKiteshield: {
+    item_id:,
+    count: 0,
+  } 10352,
+  thirdAgeRangeCoif: {
+    item_id:,
+    count: 0,
+  } 10334,
+  thirdAgeRangeTop: {
+    item_id:,
+    count: 0,
+  } 10330,
+  thirdAgeRangeLegs: {
+    item_id:,
+    count: 0,
+  } 10332,
+  thirdAgeVambraces: {
+    item_id:,
+    count: 0,
+  } 10336,
+  thirdAgeMageHat: {
+    item_id:,
+    count: 0,
+  } 10342,
+  thirdAgeRobeTop: {
+    item_id:,
+    count: 0,
+  } 10338,
+  thirdAgeRobe: {
+    item_id:,
+    count: 0,
+  } 10340,
+  thirdAgeAmulet: {
+    item_id:,
+    count: 0,
+  } 10344,
+  enchantedHat: {
+    item_id:,
+    count: 0,
+  } 7400,
+  enchantedTop: {
+    item_id:,
+    count: 0,
+  } 7399,
+  enchantedRobe: {
+    item_id:,
+    count: 0,
+  } 7398,
+  tanCavalier: {
+    item_id:,
+    count: 0,
+  } 2639,
+  darkCavalier: {
+    item_id:,
+    count: 0,
+  } 2641,
+  blackCavalier: {
+    item_id:,
+    count: 0,
+  } 2643,
+  whiteCavalier: {
+    item_id:,
+    count: 0,
+  } 12321,
+  redCavalier: {
+    item_id:,
+    count: 0,
+  } 12323,
+  navyCavalier: {
+    item_id:,
+    count: 0,
+  } 12325,
+  robinHoodHat: {
+    item_id:,
+    count: 0,
+  } 2581,
+  piratesHat: {
+    item_id:,
+    count: 0,
+  } 2651,
+  pithHelmet: {
+    item_id:,
+    count: 0,
+  } 12516,
+  amuletOfGlory_t: {
+    item_id:,
+    count: 0,
+  } 10362,
+  greenDragonMask: {
+    item_id:,
+    count: 0,
+  } 12518,
+  blueDragonMask: {
+    item_id:,
+    count: 0,
+  } 12520,
+  redDragonMask: {
+    item_id:,
+    count: 0,
+  } 12522,
+  blackDragonMask: {
+    item_id:,
+    count: 0,
+  } 12524,
+  zombieHead: {
+    item_id:,
+    count: 0,
+  } 6722,
+  cyclopsHead: {
+    item_id:,
+    count: 0,
+  } 19915,
+  runeCane: {
+    item_id:,
+    count: 0,
+  } 12379,
+  explorerBackpack: {
+    item_id:,
+    count: 0,
+  } 12514,
+  thievingBag: {
+    item_id:,
+    count: 0,
+  } 23224,
+  nunchaku: {
+    item_id:,
+    count: 0,
+  } 19918,
+  dualSai: {
+    item_id:,
+    count: 0,
+  } 23206,
+  magicCompBow: {
+    item_id:,
+    count: 0,
+  } 10284,
 }
 
 let eliteClues = {
-  dragonFullHelmOrnamentKit: 12538,
-  dragonChainbodyOrnamentKit: 12534,
-  dragonLegs_SkirtOrnamentKit: 12536,
-  dragonSqShieldOrnamentKit: 12532,
-  dragonScimitarOrnamentKit: 20002,
-  lightInfinityColorKit: 12530,
-  darkInfinityColorKit: 12528,
-  furyOrnamentKit: 12526,
-  blackDhideBody_t: 12385,
-  blackDhideChaps_t: 12387,
-  blackDhideBody_g: 12381,
-  blackDhideChaps_g: 12383,
-  gildedScimitar: 12389,
-  gildedBoots: 12391,
-  gildedFullHelm: 3486,
-  gildedPlatebody: 3481,
-  gildedPlatelegs: 3483,
-  gildedPlateskirt: 3485,
-  gildedKiteshield: 3488,
-  gildedMedHelm: 20146,
-  gildedChainbody: 20149,
-  gildedSqShield: 20152,
-  gilded2hSword: 20155,
-  gildedSpear: 20158,
-  gildedHasta: 20161,
-  gildedCoif: 23258,
-  gildedDhideBody: 23264,
-  gildedDhideChaps: 23267,
-  gildedDhideVambraces: 23261,
-  gildedAxe: 23279,
-  gildedPickaxe: 23276,
-  gildedSpade: 23282,
-  thirdAgeBow: 12424,
-  thirdAgeCloak: 12437,
-  thirdAgeLongsword: 12426,
-  thirdAgeWand: 12422,
-  thirdAgeFullHelmet: 10350,
-  thirdAgePlatebody: 10348,
-  thirdAgePlatelegs: 10346,
-  thirdAgePlateskirt: 23242,
-  thirdAgeKiteshield: 10352,
-  thirdAgeRangeCoif: 10334,
-  thirdAgeRangeTop: 10330,
-  thirdAgeRangeLegs: 10332,
-  thirdAgeVambraces: 10336,
-  thirdAgeMageHat: 10342,
-  thirdAgeRobeTop: 10338,
-  thirdAgeRobe: 10340,
-  thirdAgeAmulet: 10344,
-  ringOfThirdAge: 23185,
-  rangersTunic: 12596,
-  rangersTights: 23249,
-  rangerGloves: 19994,
-  holyWraps: 19997,
-  royalCrown: 12397,
-  royalGownTop: 12393,
-  royalGownBottom: 12395,
-  royalSceptre: 12439,
-  lightBowTie: 19985,
-  lightTuxedoJacket: 19973,
-  lightTrousers: 19979,
-  lightTuxedoCuffs: 19976,
-  lightTuxedoShoes: 19982,
-  darkBowTie: 19970,
-  darkTuxedoJacket: 19958,
-  darkTrousers: 19964,
-  darkTuxedoCuffs: 19961,
-  darkTuxedoShoes: 19967,
-  monocle: 12353,
-  topHat: 12432,
-  sagaciousSpectacles: 12337,
-  briefcase: 12335,
-  musketeerHat: 12351,
-  musketeerTabard: 12441,
-  musketeerPants: 12443,
-  bronzeDragonMask: 12363,
-  ironDragonMask: 12365,
-  steelDragonMask: 12367,
-  mithrilDragonMask: 12369,
-  adamantDragonMask: 23270,
-  runeDragonMask: 23273,
-  lavaDragonMask: 12371,
-  dragonCane: 12373,
-  bucketHelm: 19991,
-  blacksmithsHelm: 19988,
-  bigPirateHat: 12355,
-  deerstalker: 12540,
-  afro: 12430,
-  urisHat: 23255,
-  fremennikKilt: 23246,
-  arceuusScarf: 19943,
-  hosidiusScarf: 19946,
-  lovakengjScarf: 19949,
-  piscariliusScarf: 19952,
-  shayzienScarf: 19955,
-  katana: 12357,
-  ringOfNature: 20005,
-  giantBoot: 23252,
+  dragonFullHelmOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 12538,
+  dragonChainbodyOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 12534,
+  dragonLegs_SkirtOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 12536,
+  dragonSqShieldOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 12532,
+  dragonScimitarOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20002,
+  lightInfinityColorKit: {
+    item_id:,
+    count: 0,
+  } 12530,
+  darkInfinityColorKit: {
+    item_id:,
+    count: 0,
+  } 12528,
+  furyOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 12526,
+  blackDhideBody_t: {
+    item_id:,
+    count: 0,
+  } 12385,
+  blackDhideChaps_t: {
+    item_id:,
+    count: 0,
+  } 12387,
+  blackDhideBody_g: {
+    item_id:,
+    count: 0,
+  } 12381,
+  blackDhideChaps_g: {
+    item_id:,
+    count: 0,
+  } 12383,
+  gildedScimitar: {
+    item_id:,
+    count: 0,
+  } 12389,
+  gildedBoots: {
+    item_id:,
+    count: 0,
+  } 12391,
+  gildedFullHelm: {
+    item_id:,
+    count: 0,
+  } 3486,
+  gildedPlatebody: {
+    item_id:,
+    count: 0,
+  } 3481,
+  gildedPlatelegs: {
+    item_id:,
+    count: 0,
+  } 3483,
+  gildedPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3485,
+  gildedKiteshield: {
+    item_id:,
+    count: 0,
+  } 3488,
+  gildedMedHelm: {
+    item_id:,
+    count: 0,
+  } 20146,
+  gildedChainbody: {
+    item_id:,
+    count: 0,
+  } 20149,
+  gildedSqShield: {
+    item_id:,
+    count: 0,
+  } 20152,
+  gilded2hSword: {
+    item_id:,
+    count: 0,
+  } 20155,
+  gildedSpear: {
+    item_id:,
+    count: 0,
+  } 20158,
+  gildedHasta: {
+    item_id:,
+    count: 0,
+  } 20161,
+  gildedCoif: {
+    item_id:,
+    count: 0,
+  } 23258,
+  gildedDhideBody: {
+    item_id:,
+    count: 0,
+  } 23264,
+  gildedDhideChaps: {
+    item_id:,
+    count: 0,
+  } 23267,
+  gildedDhideVambraces: {
+    item_id:,
+    count: 0,
+  } 23261,
+  gildedAxe: {
+    item_id:,
+    count: 0,
+  } 23279,
+  gildedPickaxe: {
+    item_id:,
+    count: 0,
+  } 23276,
+  gildedSpade: {
+    item_id:,
+    count: 0,
+  } 23282,
+  thirdAgeBow: {
+    item_id:,
+    count: 0,
+  } 12424,
+  thirdAgeCloak: {
+    item_id:,
+    count: 0,
+  } 12437,
+  thirdAgeLongsword: {
+    item_id:,
+    count: 0,
+  } 12426,
+  thirdAgeWand: {
+    item_id:,
+    count: 0,
+  } 12422,
+  thirdAgeFullHelmet: {
+    item_id:,
+    count: 0,
+  } 10350,
+  thirdAgePlatebody: {
+    item_id:,
+    count: 0,
+  } 10348,
+  thirdAgePlatelegs: {
+    item_id:,
+    count: 0,
+  } 10346,
+  thirdAgePlateskirt: {
+    item_id:,
+    count: 0,
+  } 23242,
+  thirdAgeKiteshield: {
+    item_id:,
+    count: 0,
+  } 10352,
+  thirdAgeRangeCoif: {
+    item_id:,
+    count: 0,
+  } 10334,
+  thirdAgeRangeTop: {
+    item_id:,
+    count: 0,
+  } 10330,
+  thirdAgeRangeLegs: {
+    item_id:,
+    count: 0,
+  } 10332,
+  thirdAgeVambraces: {
+    item_id:,
+    count: 0,
+  } 10336,
+  thirdAgeMageHat: {
+    item_id:,
+    count: 0,
+  } 10342,
+  thirdAgeRobeTop: {
+    item_id:,
+    count: 0,
+  } 10338,
+  thirdAgeRobe: {
+    item_id:,
+    count: 0,
+  } 10340,
+  thirdAgeAmulet: {
+    item_id:,
+    count: 0,
+  } 10344,
+  ringOfThirdAge: {
+    item_id:,
+    count: 0,
+  } 23185,
+  rangersTunic: {
+    item_id:,
+    count: 0,
+  } 12596,
+  rangersTights: {
+    item_id:,
+    count: 0,
+  } 23249,
+  rangerGloves: {
+    item_id:,
+    count: 0,
+  } 19994,
+  holyWraps: {
+    item_id:,
+    count: 0,
+  } 19997,
+  royalCrown: {
+    item_id:,
+    count: 0,
+  } 12397,
+  royalGownTop: {
+    item_id:,
+    count: 0,
+  } 12393,
+  royalGownBottom: {
+    item_id:,
+    count: 0,
+  } 12395,
+  royalSceptre: {
+    item_id:,
+    count: 0,
+  } 12439,
+  lightBowTie: {
+    item_id:,
+    count: 0,
+  } 19985,
+  lightTuxedoJacket: {
+    item_id:,
+    count: 0,
+  } 19973,
+  lightTrousers: {
+    item_id:,
+    count: 0,
+  } 19979,
+  lightTuxedoCuffs: {
+    item_id:,
+    count: 0,
+  } 19976,
+  lightTuxedoShoes: {
+    item_id:,
+    count: 0,
+  } 19982,
+  darkBowTie: {
+    item_id:,
+    count: 0,
+  } 19970,
+  darkTuxedoJacket: {
+    item_id:,
+    count: 0,
+  } 19958,
+  darkTrousers: {
+    item_id:,
+    count: 0,
+  } 19964,
+  darkTuxedoCuffs: {
+    item_id:,
+    count: 0,
+  } 19961,
+  darkTuxedoShoes: {
+    item_id:,
+    count: 0,
+  } 19967,
+  monocle: {
+    item_id:,
+    count: 0,
+  } 12353,
+  topHat: {
+    item_id:,
+    count: 0,
+  } 12432,
+  sagaciousSpectacles: {
+    item_id:,
+    count: 0,
+  } 12337,
+  briefcase: {
+    item_id:,
+    count: 0,
+  } 12335,
+  musketeerHat: {
+    item_id:,
+    count: 0,
+  } 12351,
+  musketeerTabard: {
+    item_id:,
+    count: 0,
+  } 12441,
+  musketeerPants: {
+    item_id:,
+    count: 0,
+  } 12443,
+  bronzeDragonMask: {
+    item_id:,
+    count: 0,
+  } 12363,
+  ironDragonMask: {
+    item_id:,
+    count: 0,
+  } 12365,
+  steelDragonMask: {
+    item_id:,
+    count: 0,
+  } 12367,
+  mithrilDragonMask: {
+    item_id:,
+    count: 0,
+  } 12369,
+  adamantDragonMask: {
+    item_id:,
+    count: 0,
+  } 23270,
+  runeDragonMask: {
+    item_id:,
+    count: 0,
+  } 23273,
+  lavaDragonMask: {
+    item_id:,
+    count: 0,
+  } 12371,
+  dragonCane: {
+    item_id:,
+    count: 0,
+  } 12373,
+  bucketHelm: {
+    item_id:,
+    count: 0,
+  } 19991,
+  blacksmithsHelm: {
+    item_id:,
+    count: 0,
+  } 19988,
+  bigPirateHat: {
+    item_id:,
+    count: 0,
+  } 12355,
+  deerstalker: {
+    item_id:,
+    count: 0,
+  } 12540,
+  afro: {
+    item_id:,
+    count: 0,
+  } 12430,
+  urisHat: {
+    item_id:,
+    count: 0,
+  } 23255,
+  fremennikKilt: {
+    item_id:,
+    count: 0,
+  } 23246,
+  arceuusScarf: {
+    item_id:,
+    count: 0,
+  } 19943,
+  hosidiusScarf: {
+    item_id:,
+    count: 0,
+  } 19946,
+  lovakengjScarf: {
+    item_id:,
+    count: 0,
+  } 19949,
+  piscariliusScarf: {
+    item_id:,
+    count: 0,
+  } 19952,
+  shayzienScarf: {
+    item_id:,
+    count: 0,
+  } 19955,
+  katana: {
+    item_id:,
+    count: 0,
+  } 12357,
+  ringOfNature: {
+    item_id:,
+    count: 0,
+  } 20005,
+  giantBoot: {
+    item_id:,
+    count: 0,
+  } 23252,
 }
 
 let masterClues = {
-  bloodhound: 19730,
-  dragonPlatebodyOrnamentKit: 22236,
-  dragonKiteshieldOrnamentKit: 22239,
-  dragonDefenderOrnamentKit: 20143,
-  anguishOrnamentKit: 22246,
-  tortureOrnamentKit: 20062,
-  occultOrnamentKit: 20065,
-  saradominGodswordOrnamentKit: 20074,
-  zamorakGodswordOrnamentKit: 20077,
-  bandosGodswordOrnamentKit: 20071,
-  armadylGodswordOrnamentKit: 20068,
-  tormentedOrnamentKit: 23348,
-  gildedScimitar: 12389,
-  gildedBoots: 12391,
-  gildedFullHelm: 3486,
-  gildedPlatebody: 3481,
-  gildedPlatelegs: 3483,
-  gildedPlateskirt: 3485,
-  gildedKiteshield: 3488,
-  gildedMedHelm: 20146,
-  gildedChainbody: 20149,
-  gildedSqShield: 20152,
-  gilded2hSword: 20155,
-  gildedSpear: 20158,
-  gildedHasta: 20161,
-  gildedCoif: 23258,
-  gildedDhideBody: 23264,
-  gildedDhideChaps: 23267,
-  gildedDhideVambraces: 23261,
-  gildedAxe: 23279,
-  gildedPickaxe: 23276,
-  gildedSpade: 23282,
-  thirdAgeAxe: 20011,
-  thirdAgePickaxe: 20014,
-  thirdAgeBow: 12424,
-  thirdAgeCloak: 12437,
-  thirdAgeLongsword: 12426,
-  thirdAgeWand: 12422,
-  thirdAgeFullHelmet: 10350,
-  thirdAgePlatebody: 10348,
-  thirdAgePlatelegs: 10346,
-  thirdAgePlateskirt: 23242,
-  thirdAgeKiteshield: 10352,
-  thirdAgeRangeCoif: 10334,
-  thirdAgeRangeTop: 10330,
-  thirdAgeRangeLegs: 10332,
-  thirdAgeVambraces: 10336,
-  thirdAgeMageHat: 10342,
-  thirdAgeRobeTop: 10338,
-  thirdAgeRobe: 10340,
-  thirdAgeAmulet: 10344,
-  thirdAgeDruidicRobeTop: 23336,
-  thirdAgeDruidicRobeBottoms: 23339,
-  thirdAgeDruidicCloak: 23345,
-  thirdAgeDruidicStaff: 23342,
-  ringOfThirdAge: 23185,
-  hoodOfDarkness: 20128,
-  robeTopOfDarkness: 20131,
-  robeBottomOfDarkness: 20137,
-  glovesOfDarkness: 20134,
-  bootsOfDarkness: 20140,
-  samuraiKasa: 20035,
-  samuraiShirt: 20038,
-  samuraiGreaves: 20044,
-  samuraiGloves: 20041,
-  samuraiBoots: 20047,
-  mummysHead: 20080,
-  mummysBody: 20083,
-  mummysLegs: 20089,
-  mummysHands: 20086,
-  mummysFeet: 20092,
-  ankouMask: 20095,
-  ankouTop: 20098,
-  ankouLeggings: 20104,
-  ankouGloves: 20101,
-  ankouSocks: 20107,
-  lesserDemonMask: 20020,
-  greaterDemonMask: 20023,
-  blackDemonMask: 20026,
-  jungleDemonMask: 20032,
-  oldDemonMask: 20029,
-  bucketHelm_g: 20059,
-  bowlWig: 20110,
-  fancyTiara: 20008,
-  arceuusHood: 20113,
-  hosidiusHood: 20116,
-  lovakengjHood: 20119,
-  piscariliusHood: 20122,
-  shayzienHood: 20125,
-  leftEyePatch: 19724,
-  halfMoonSpectacles: 20053,
-  obsidianCape_r: 20050,
-  ringOfCoins: 20017,
-  aleOfTheGods: 20056,
+  bloodhound: {
+    item_id:,
+    count: 0,
+  } 19730,
+  dragonPlatebodyOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 22236,
+  dragonKiteshieldOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 22239,
+  dragonDefenderOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20143,
+  anguishOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 22246,
+  tortureOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20062,
+  occultOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20065,
+  saradominGodswordOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20074,
+  zamorakGodswordOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20077,
+  bandosGodswordOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20071,
+  armadylGodswordOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 20068,
+  tormentedOrnamentKit: {
+    item_id:,
+    count: 0,
+  } 23348,
+  gildedScimitar: {
+    item_id:,
+    count: 0,
+  } 12389,
+  gildedBoots: {
+    item_id:,
+    count: 0,
+  } 12391,
+  gildedFullHelm: {
+    item_id:,
+    count: 0,
+  } 3486,
+  gildedPlatebody: {
+    item_id:,
+    count: 0,
+  } 3481,
+  gildedPlatelegs: {
+    item_id:,
+    count: 0,
+  } 3483,
+  gildedPlateskirt: {
+    item_id:,
+    count: 0,
+  } 3485,
+  gildedKiteshield: {
+    item_id:,
+    count: 0,
+  } 3488,
+  gildedMedHelm: {
+    item_id:,
+    count: 0,
+  } 20146,
+  gildedChainbody: {
+    item_id:,
+    count: 0,
+  } 20149,
+  gildedSqShield: {
+    item_id:,
+    count: 0,
+  } 20152,
+  gilded2hSword: {
+    item_id:,
+    count: 0,
+  } 20155,
+  gildedSpear: {
+    item_id:,
+    count: 0,
+  } 20158,
+  gildedHasta: {
+    item_id:,
+    count: 0,
+  } 20161,
+  gildedCoif: {
+    item_id:,
+    count: 0,
+  } 23258,
+  gildedDhideBody: {
+    item_id:,
+    count: 0,
+  } 23264,
+  gildedDhideChaps: {
+    item_id:,
+    count: 0,
+  } 23267,
+  gildedDhideVambraces: {
+    item_id:,
+    count: 0,
+  } 23261,
+  gildedAxe: {
+    item_id:,
+    count: 0,
+  } 23279,
+  gildedPickaxe: {
+    item_id:,
+    count: 0,
+  } 23276,
+  gildedSpade: {
+    item_id:,
+    count: 0,
+  } 23282,
+  thirdAgeAxe: {
+    item_id:,
+    count: 0,
+  } 20011,
+  thirdAgePickaxe: {
+    item_id:,
+    count: 0,
+  } 20014,
+  thirdAgeBow: {
+    item_id:,
+    count: 0,
+  } 12424,
+  thirdAgeCloak: {
+    item_id:,
+    count: 0,
+  } 12437,
+  thirdAgeLongsword: {
+    item_id:,
+    count: 0,
+  } 12426,
+  thirdAgeWand: {
+    item_id:,
+    count: 0,
+  } 12422,
+  thirdAgeFullHelmet: {
+    item_id:,
+    count: 0,
+  } 10350,
+  thirdAgePlatebody: {
+    item_id:,
+    count: 0,
+  } 10348,
+  thirdAgePlatelegs: {
+    item_id:,
+    count: 0,
+  } 10346,
+  thirdAgePlateskirt: {
+    item_id:,
+    count: 0,
+  } 23242,
+  thirdAgeKiteshield: {
+    item_id:,
+    count: 0,
+  } 10352,
+  thirdAgeRangeCoif: {
+    item_id:,
+    count: 0,
+  } 10334,
+  thirdAgeRangeTop: {
+    item_id:,
+    count: 0,
+  } 10330,
+  thirdAgeRangeLegs: {
+    item_id:,
+    count: 0,
+  } 10332,
+  thirdAgeVambraces: {
+    item_id:,
+    count: 0,
+  } 10336,
+  thirdAgeMageHat: {
+    item_id:,
+    count: 0,
+  } 10342,
+  thirdAgeRobeTop: {
+    item_id:,
+    count: 0,
+  } 10338,
+  thirdAgeRobe: {
+    item_id:,
+    count: 0,
+  } 10340,
+  thirdAgeAmulet: {
+    item_id:,
+    count: 0,
+  } 10344,
+  thirdAgeDruidicRobeTop: {
+    item_id:,
+    count: 0,
+  } 23336,
+  thirdAgeDruidicRobeBottoms: {
+    item_id:,
+    count: 0,
+  } 23339,
+  thirdAgeDruidicCloak: {
+    item_id:,
+    count: 0,
+  } 23345,
+  thirdAgeDruidicStaff: {
+    item_id:,
+    count: 0,
+  } 23342,
+  ringOfThirdAge: {
+    item_id:,
+    count: 0,
+  } 23185,
+  hoodOfDarkness: {
+    item_id:,
+    count: 0,
+  } 20128,
+  robeTopOfDarkness: {
+    item_id:,
+    count: 0,
+  } 20131,
+  robeBottomOfDarkness: {
+    item_id:,
+    count: 0,
+  } 20137,
+  glovesOfDarkness: {
+    item_id:,
+    count: 0,
+  } 20134,
+  bootsOfDarkness: {
+    item_id:,
+    count: 0,
+  } 20140,
+  samuraiKasa: {
+    item_id:,
+    count: 0,
+  } 20035,
+  samuraiShirt: {
+    item_id:,
+    count: 0,
+  } 20038,
+  samuraiGreaves: {
+    item_id:,
+    count: 0,
+  } 20044,
+  samuraiGloves: {
+    item_id:,
+    count: 0,
+  } 20041,
+  samuraiBoots: {
+    item_id:,
+    count: 0,
+  } 20047,
+  mummysHead: {
+    item_id:,
+    count: 0,
+  } 20080,
+  mummysBody: {
+    item_id:,
+    count: 0,
+  } 20083,
+  mummysLegs: {
+    item_id:,
+    count: 0,
+  } 20089,
+  mummysHands: {
+    item_id:,
+    count: 0,
+  } 20086,
+  mummysFeet: {
+    item_id:,
+    count: 0,
+  } 20092,
+  ankouMask: {
+    item_id:,
+    count: 0,
+  } 20095,
+  ankouTop: {
+    item_id:,
+    count: 0,
+  } 20098,
+  ankouLeggings: {
+    item_id:,
+    count: 0,
+  } 20104,
+  ankouGloves: {
+    item_id:,
+    count: 0,
+  } 20101,
+  ankouSocks: {
+    item_id:,
+    count: 0,
+  } 20107,
+  lesserDemonMask: {
+    item_id:,
+    count: 0,
+  } 20020,
+  greaterDemonMask: {
+    item_id:,
+    count: 0,
+  } 20023,
+  blackDemonMask: {
+    item_id:,
+    count: 0,
+  } 20026,
+  jungleDemonMask: {
+    item_id:,
+    count: 0,
+  } 20032,
+  oldDemonMask: {
+    item_id:,
+    count: 0,
+  } 20029,
+  bucketHelm_g: {
+    item_id:,
+    count: 0,
+  } 20059,
+  bowlWig: {
+    item_id:,
+    count: 0,
+  } 20110,
+  fancyTiara: {
+    item_id:,
+    count: 0,
+  } 20008,
+  arceuusHood: {
+    item_id:,
+    count: 0,
+  } 20113,
+  hosidiusHood: {
+    item_id:,
+    count: 0,
+  } 20116,
+  lovakengjHood: {
+    item_id:,
+    count: 0,
+  } 20119,
+  piscariliusHood: {
+    item_id:,
+    count: 0,
+  } 20122,
+  shayzienHood: {
+    item_id:,
+    count: 0,
+  } 20125,
+  leftEyePatch: {
+    item_id:,
+    count: 0,
+  } 19724,
+  halfMoonSpectacles: {
+    item_id:,
+    count: 0,
+  } 20053,
+  obsidianCape_r: {
+    item_id:,
+    count: 0,
+  } 20050,
+  ringOfCoins: {
+    item_id:,
+    count: 0,
+  } 20017,
+  aleOfTheGods: {
+    item_id:,
+    count: 0,
+  } 20056,
 }
 
 let sharedClues = {
-  guthixPage1: 3835,
-  guthixPage2: 3836,
-  guthixPage3: 3837,
-  guthixPage4: 3838,
-  saradominPage1: 3827,
-  saradominPage2: 3828,
-  saradominPage3: 3829,
-  saradominPage4: 3830,
-  zamorakPage1: 3831,
-  zamorakPage2: 3832,
-  zamorakPage3: 3833,
-  zamorakPage4: 3834,
-  ancientPage1: 12621,
-  ancientPage2: 12622,
-  ancientPage3: 12623,
-  ancientPage4: 12624,
-  bandosPage1: 12613,
-  bandosPage2: 12614,
-  bandosPage3: 12615,
-  bandosPage4: 12616,
-  armadylPage1: 12617,
-  armadylPage2: 12618,
-  armadylPage3: 12619,
-  armadylPage4: 12620,
-  ancientBlessing: 20235,
-  holyBlessing: 20220,
-  unholyBlessing: 20223,
-  honourableBlessing: 20229,
-  peacefulBlessing: 20226,
-  warBlessing: 20232,
-  masterScrollBook_empty: 21387,
-  nardahTeleport: 12402,
-  moseharmlessTeleport: 12411,
-  morttonTeleport: 12406,
-  feldipHillsTeleport: 12404,
-  lunarIsleTeleport: 12405,
-  digsiteTeleport: 12403,
-  lumberyardTeleport: 12642,
-  piscatorisTeleport: 12408,
-  pestControlTeleport: 12407,
-  taiBwoWannaiTeleport: 12409,
-  iorwerthCampTeleport: 12410,
-  redFirelighter: 7329,
-  greenFirelighter: 7330,
-  blueFirelighter: 7331,
-  purpleFirelighter: 10326,
-  whiteFirelighter: 10327,
-  chargeDragonstoneJewelleryScroll: 20238,
-  purpleSweets: 10483,
+  guthixPage1: {
+    item_id:,
+    count: 0,
+  } 3835,
+  guthixPage2: {
+    item_id:,
+    count: 0,
+  } 3836,
+  guthixPage3: {
+    item_id:,
+    count: 0,
+  } 3837,
+  guthixPage4: {
+    item_id:,
+    count: 0,
+  } 3838,
+  saradominPage1: {
+    item_id:,
+    count: 0,
+  } 3827,
+  saradominPage2: {
+    item_id:,
+    count: 0,
+  } 3828,
+  saradominPage3: {
+    item_id:,
+    count: 0,
+  } 3829,
+  saradominPage4: {
+    item_id:,
+    count: 0,
+  } 3830,
+  zamorakPage1: {
+    item_id:,
+    count: 0,
+  } 3831,
+  zamorakPage2: {
+    item_id:,
+    count: 0,
+  } 3832,
+  zamorakPage3: {
+    item_id:,
+    count: 0,
+  } 3833,
+  zamorakPage4: {
+    item_id:,
+    count: 0,
+  } 3834,
+  ancientPage1: {
+    item_id:,
+    count: 0,
+  } 12621,
+  ancientPage2: {
+    item_id:,
+    count: 0,
+  } 12622,
+  ancientPage3: {
+    item_id:,
+    count: 0,
+  } 12623,
+  ancientPage4: {
+    item_id:,
+    count: 0,
+  } 12624,
+  bandosPage1: {
+    item_id:,
+    count: 0,
+  } 12613,
+  bandosPage2: {
+    item_id:,
+    count: 0,
+  } 12614,
+  bandosPage3: {
+    item_id:,
+    count: 0,
+  } 12615,
+  bandosPage4: {
+    item_id:,
+    count: 0,
+  } 12616,
+  armadylPage1: {
+    item_id:,
+    count: 0,
+  } 12617,
+  armadylPage2: {
+    item_id:,
+    count: 0,
+  } 12618,
+  armadylPage3: {
+    item_id:,
+    count: 0,
+  } 12619,
+  armadylPage4: {
+    item_id:,
+    count: 0,
+  } 12620,
+  ancientBlessing: {
+    item_id:,
+    count: 0,
+  } 20235,
+  holyBlessing: {
+    item_id:,
+    count: 0,
+  } 20220,
+  unholyBlessing: {
+    item_id:,
+    count: 0,
+  } 20223,
+  honourableBlessing: {
+    item_id:,
+    count: 0,
+  } 20229,
+  peacefulBlessing: {
+    item_id:,
+    count: 0,
+  } 20226,
+  warBlessing: {
+    item_id:,
+    count: 0,
+  } 20232,
+  masterScrollBook_empty: {
+    item_id:,
+    count: 0,
+  } 21387,
+  nardahTeleport: {
+    item_id:,
+    count: 0,
+  } 12402,
+  moseharmlessTeleport: {
+    item_id:,
+    count: 0,
+  } 12411,
+  morttonTeleport: {
+    item_id:,
+    count: 0,
+  } 12406,
+  feldipHillsTeleport: {
+    item_id:,
+    count: 0,
+  } 12404,
+  lunarIsleTeleport: {
+    item_id:,
+    count: 0,
+  } 12405,
+  digsiteTeleport: {
+    item_id:,
+    count: 0,
+  } 12403,
+  lumberyardTeleport: {
+    item_id:,
+    count: 0,
+  } 12642,
+  piscatorisTeleport: {
+    item_id:,
+    count: 0,
+  } 12408,
+  pestControlTeleport: {
+    item_id:,
+    count: 0,
+  } 12407,
+  taiBwoWannaiTeleport: {
+    item_id:,
+    count: 0,
+  } 12409,
+  iorwerthCampTeleport: {
+    item_id:,
+    count: 0,
+  } 12410,
+  redFirelighter: {
+    item_id:,
+    count: 0,
+  } 7329,
+  greenFirelighter: {
+    item_id:,
+    count: 0,
+  } 7330,
+  blueFirelighter: {
+    item_id:,
+    count: 0,
+  } 7331,
+  purpleFirelighter: {
+    item_id:,
+    count: 0,
+  } 10326,
+  whiteFirelighter: {
+    item_id:,
+    count: 0,
+  } 10327,
+  chargeDragonstoneJewelleryScroll: {
+    item_id:,
+    count: 0,
+  } 20238,
+  purpleSweets: {
+    item_id:,
+    count: 0,
+  } 10483,
 }
 
 let milestones = {
-  explore: "placeholder",
-  largeSpade: 20164,
-  cluelessScroll: 20249,
-  uriTransform: "placeholder",
-  heavyCasket: 19941,
-  scrollSack: 22675,
+  explore: {
+    item_id:,
+    count: 0,
+  } "placeholder",
+  largeSpade: {
+    item_id:,
+    count: 0,
+  } 20164,
+  cluelessScroll: {
+    item_id:,
+    count: 0,
+  } 20249,
+  uriTransform: {
+    item_id:,
+    count: 0,
+  } "placeholder",
+  heavyCasket: {
+    item_id:,
+    count: 0,
+  } 19941,
+  scrollSack: {
+    item_id:,
+    count: 0,
+  } 22675,
 }
