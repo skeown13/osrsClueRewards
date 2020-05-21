@@ -1,10 +1,10 @@
 $(document).ready(function() {
 
-  function beginnerCluesImg(imgId, imgObjId) {
-    $(`#${imgId.id}`).attr("src", `./assets/images/beginnerClues/${imgObjId}.png`)
+  function beginnerCluesImg(imgHtmlId, imgObjId) {
+    $(`#${imgHtmlId.id}`).attr("src", `./assets/images/beginnerClues/${imgObjId}.png`)
   }
   
-  
+
   // Beginner Clues Image Thumbnails being Rendered on the Screen
 
   beginnerCluesImg(beginner_runeScimitarOrnamentKit_guthix, beginnerClues.runeScimitarOrnamentKit_guthix.item_id)
