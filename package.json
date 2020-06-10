@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/skeown13/osrsClueRewards/issues"
   },
-  "homepage": "https://github.com/skeown13/osrsClueRewards#readme"
+  "homepage": "https://github.com/skeown13/osrsClueRewards#readme",
+  "dependencies": {
+    "tippy.js": "^6.2.3"
+  }
 }
