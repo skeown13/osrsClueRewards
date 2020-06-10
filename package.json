@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/skeown13/osrsClueRewards#readme",
   "dependencies": {
+    "requirejs": "^2.3.6",
     "tippy.js": "^6.2.3"
   }
 }
