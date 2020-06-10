@@ -1,0 +1,19 @@
+{
+  "name": "osrscluerewards",
+  "version": "1.0.0",
+  "description": "The ability to keep track of what unique rewards that you have received from the Treasure Trails on OSRS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skeown13/osrsClueRewards.git"
+  },
+  "author": "skeown13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skeown13/osrsClueRewards/issues"
+  },
+  "homepage": "https://github.com/skeown13/osrsClueRewards#readme"
+}
