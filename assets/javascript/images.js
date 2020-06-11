@@ -1,10 +1,13 @@
 $(document).ready(function() {
 
+  let require = require("requirejs");
+  let tippy = require("tippy.js");
+
   function beginnerCluesImg(imgHtmlId, imgObjId) {
     $(`#${imgHtmlId.id}`).attr("src", `./assets/images/beginnerClues/${imgObjId}.png`)
   }
   
-
+  
   // Beginner Clues Image Thumbnails being Rendered on the Screen
 
   beginnerCluesImg(beginner_runeScimitarOrnamentKit_guthix, beginnerClues.runeScimitarOrnamentKit_guthix.item_id)
@@ -41,7 +44,10 @@ $(document).ready(function() {
 
 
 
-
+  tippy(['data-tippy-content']);
+  tippy('.rewardsThumbnails-img', {
+    followCursor: 'default'
+  })
 
 
 })
